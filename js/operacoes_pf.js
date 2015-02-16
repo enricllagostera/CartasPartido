@@ -10,7 +10,7 @@ var tabela;
 d3.tsv("/dados/OPERACOES PF.tsv", function (a) {
   tabela = a;
   // carrega os dados da tabela em TSV
-  var cartas = d3.select("body").selectAll("div")
+  var cartas = d3.select("div.operacoes").selectAll("div")
     .data(tabela)
     .enter().append("div"); 
   cartas.classed("carta", true); // cada carta

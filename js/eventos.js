@@ -11,20 +11,20 @@ var tabela_eventos;
 d3.tsv("/dados/EVENTOS.tsv", function (a) {
   tabela_eventos = a;
   // carrega os dados da tabela em TSV
-  var cartas = d3.select("body").selectAll("div")
+  var cartas_eventos = d3.select("div.eventos").selectAll("div")
     .data(tabela_eventos)
     .enter().append("div"); 
-  cartas.classed("carta", true); // cada carta
+  cartas_eventos.classed("carta", true); // cada carta
 
   // nome
-  cartas.append("h1").text(function(d) { return d.evento; });
+  cartas_eventos.append("h1").text(function(d) { return d.evento; });
   
-  var tipo_evento = cartas.append("div").html(function(d) {
+  var tipo_evento = cartas_eventos.append("div").html(function(d) {
     return "<span>" + d.data + "</span>";
   });
   tipo_evento.classed("tipo evento", true);
   
-  var bloco = cartas.append("div");
+  var bloco = cartas_eventos.append("div");
   bloco.classed("bloco", true);
   
   bloco.append("p").html(function(d) { 
@@ -34,4 +34,4 @@ d3.tsv("/dados/EVENTOS.tsv", function (a) {
     }
     return res + d.efeito;
   });
-}); // fim criar cartas
+}); // fim criar cartas_eventos

@@ -8,14 +8,14 @@
 - Influência
 - Espaços
 
+## Prontos
+
 ### EVENTOS (100 un.)
 
 - Nome
 - Data
 - Efeito
 - Permanência
-
-## Prontos
 
 ### POLÍTICOS (316 un.)
 
