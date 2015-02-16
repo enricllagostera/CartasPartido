@@ -8,7 +8,7 @@
 */     
 var tabela_eventos;
 
-d3.tsv("/dados/EVENTOS.tsv", function (a) {
+d3.tsv("../CartasPartido/dados/EVENTOS.tsv", function (a) {
   tabela_eventos = a;
   // carrega os dados da tabela em TSV
   var cartas_eventos = d3.select("div.eventos").selectAll("div")
