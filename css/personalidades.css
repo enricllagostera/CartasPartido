@@ -13,7 +13,7 @@ body {
   font-size: 11pt;
   float: left;
   padding-left: 2.5mm;
-  margin: 1mm;
+  margin: 2mm;
   page-break-inside: avoid;
 }
 
@@ -62,19 +62,17 @@ span {
   font-weight: 700;
 }
 
-h2 {
+div.tipo {
   position: absolute;
   display: block;
   top: 2mm;
   right: 2.5mm;
-  border: 2px solid black;
-  width: 18mm;
-  height: 9mm;
+  width: 20mm;
+  height: 20mm;
   text-align: center;
   margin: 0;
-  padding: 1mm;
-  font-size: 18pt;
-  font-weight: 900;
+  font-size:24pt;
+  font-weight: 500;
 }
 
 .col {
@@ -96,13 +94,6 @@ p.estado {
 p.verba {
   position: absolute;
   top: 28mm;
-  width:30mm;
-  left: 3.5mm;
-}
-
-p.etapa {
-  position: absolute;
-  top: 34mm;
   width:30mm;
   left: 3.5mm;
 }
@@ -164,4 +155,3 @@ tr.votos_ano td {
   background-color: #f00;
   color: #ffc608;
 }
-

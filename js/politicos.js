@@ -35,6 +35,10 @@ d3.tsv("/dados/POLITICOS.tsv", function (a) {
   cartas.append("p")
     .text(function(d) { return "$ " + d.verba; })
     .classed("verba", true);
+  // etapa
+  cartas.append("p")
+    .text(function(d) { return "E: " + d.momento_poder; })
+    .classed("etapa", true);
   // anos
   cartas.append("p")
     .text(function(d) { 
@@ -47,7 +51,7 @@ d3.tsv("/dados/POLITICOS.tsv", function (a) {
     .classed("anos", true);
   // poder
   cartas.append("p")
-    .html(function(d) { return d.poder + " <strong>| Etapa: "+d.momento_poder+"</strong>"})
+    .html(function(d) { return d.poder})
     .classed("poder", true);
   // voto
   var votos = cartas.append("table").classed("votos", true);
