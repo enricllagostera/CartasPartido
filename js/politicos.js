@@ -10,7 +10,7 @@ CARTA POLÍTICOS:
 */
       
 var tabela;
-d3.tsv("/dados/POLITICOS.tsv", function (a) {
+d3.tsv("../CartasPartido/dados/POLITICOS.tsv", function (a) {
   tabela = a;
   // carrega os dados da tabela em TSV
   var cartas = d3.select("div.politicos").selectAll("div")
