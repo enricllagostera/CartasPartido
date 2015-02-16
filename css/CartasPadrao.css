@@ -1,3 +1,74 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:500,900,300,700,400);
+
+body {
+  font-family: 'Roboto', Arial;
+}
+
+.carta {
+  position: relative;
+  border: 2px black solid;
+  width: 85mm;
+  height:55mm;
+  overflow: hidden;
+  font-size: 11pt;
+  float: left;
+  padding-left: 2.5mm;
+  margin: 2mm;
+  page-break-inside: avoid;
+}
+
+.carta h1 {
+  padding: 0;
+  padding-left:1mm;
+  font-weight: 900;
+  font-size: 16pt;
+  line-height: 16pt;
+  width: 58mm;
+  vertical-align: bottom;
+  display: block;
+}
+
+.carta table {
+  position: absolute;
+  bottom: 2mm;
+  left: 2.5mm;
+  text-align: center;
+  border-top: 2px solid black;
+  width: 80mm;
+  margin: 0;
+  padding: 0
+}
+
+.carta table td {
+  padding: 0 1mm;
+}
+
+div.tipo {
+  position: absolute;
+  display: block;
+  top: 2mm;
+  right: 2.5mm;
+  width: 20mm;
+  height: 20mm;
+  text-align: center;
+  margin: 0;
+  font-size:24pt;
+  font-weight: 500;
+}
+
+.tabela-ano {
+  font-weight: 500;
+}
+
+
+span {
+  display: inline-block;
+  width: auto;
+  float: right;
+  margin-right:0.5mm;
+  font-weight: 700;
+}
+
 /* para impressao */
 @media all {
 	.page-break	{ display: none; }

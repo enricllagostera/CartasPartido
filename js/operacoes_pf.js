@@ -18,6 +18,9 @@ d3.tsv("/dados/OPERACOES PF.tsv", function (a) {
   // nome
   cartas.append("h1").text(function(d) { return d.operacao; });
   
+  var tipo = cartas.append("div").html("<span>PF</span>");
+  tipo.classed("tipo", true);
+  
   var bloco = cartas.append("div");
   bloco.classed("bloco", true);
   
