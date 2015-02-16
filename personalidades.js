@@ -8,7 +8,7 @@ obs: sobre os partido que tem mais facilidade de aquisição, farei da mesma for
 */
       
 var tabela;
-d3.tsv("../CartasPartido/dados/PERSONALIDADES.tsv", function (a) {
+d3.tsv("PERSONALIDADES.tsv", function (a) {
   tabela = a;
   // carrega os dados da tabela em TSV
   var cartas = d3.select("div.personalidades").selectAll("div")

@@ -7,7 +7,8 @@ CPIS (64 un.)
 */
       
 var tabela;
-d3.tsv("../CartasPartido/dados/CPIS.tsv", function (a) {
+ d3.tsv("CPIS.tsv", function (a) {
+// d3.tsv("../CartasPartido/dados/CPIS.tsv", function (a) {
   tabela = a;
   // carrega os dados da tabela em TSV
   var cartas = d3.select("div.cpis").selectAll("div")

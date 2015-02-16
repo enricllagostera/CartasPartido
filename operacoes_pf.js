@@ -7,7 +7,7 @@ OPERAÇÕES PF (24 un.)
 */
       
 var tabela;
-d3.tsv("../CartasPartido/dados/OPERACOES PF.tsv", function (a) {
+d3.tsv("OPERACOES PF.tsv", function (a) {
   tabela = a;
   // carrega os dados da tabela em TSV
   var cartas = d3.select("div.operacoes").selectAll("div")

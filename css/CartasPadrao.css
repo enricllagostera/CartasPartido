@@ -95,36 +95,44 @@ div.tipo span {
 /* POLITICOS */
 p.estado {
   position: absolute;
-  top: 22mm;
+  top: 18mm;
   width:30mm;
   left: 3.5mm;
+  font-size: 13pt;
+  font-weight: 700;
 }
 
 p.verba {
   position: absolute;
-  top: 28mm;
+  top: 23mm;
   width:30mm;
   left: 3.5mm;
+  font-size: 13pt;
+  font-weight: 700;
 }
 
 p.etapa {
   position: absolute;
-  top: 34mm;
+  top: 28mm;
   width:30mm;
   left: 3.5mm;
+  font-size: 13pt;
+  font-weight: 700;
 }
 
 p.anos {
   position: absolute;
-  top: 16mm;
+  top: 12mm;
   width:25mm;
   left: 3.5mm;
+  font-size: 13pt;
+  font-weight: 700;
 }
 
 p.poder {
   /*border-top: 1px dotted #aaa;*/
   position: absolute;
-  top: 17mm;
+  top: 13mm;
   width:52mm;
   left: 33.5mm;
   font-size: 10.5pt;
@@ -170,6 +178,21 @@ tr.votos_ano td {
   border-color:#f00;
   background-color: #f00;
   color: #ffc608;
+}
+
+h2 {
+  position: absolute;
+  display: block;
+  top: 2mm;
+  right: 2.5mm;
+  border: 2px solid black;
+  width: 18mm;
+  height: 9mm;
+  text-align: center;
+  margin: 0;
+  padding: 1mm;
+  font-size: 18pt;
+  font-weight: 900;
 }
 
 /* para impressao */
