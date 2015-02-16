@@ -1,0 +1,317 @@
+nome	partido	estado	verba	inicio	fim	momento_poder	poder	possivel_pie	possivel_pt	possivel_psdb	possivel_pmdb	possivel_dem	possivel_ped	voto_estado_1990	voto_estado_1994	voto_estado_1998	voto_estado_2002	voto_estado_2006	voto_estado_2010	voto_estado_2014	voto_pres_1990	voto_pres_1994	voto_pres_1998	voto_pres_2002	voto_pres_2006	voto_pres_2010	voto_pres_2014
+Antônio Carlos Magalhães	DEM	BA	3	1990	2007	8	GOV: +3 Frç e +1$ / SEN: +3 Leg e +1 Frç	-	-	-	-	-	-	6	3	2	3	1									
+César Borges	DEM	BA	2	1990	-	8	QQ: +2 Frç se Antônio Carlos Magalhães for GOV ou SEN	-	-	-	-	-	4*			7	2										
+Josaphat Marinho	DEM	BA	1	1990	2001	8	GOV: +1 Frç para cada G que seu partido tiver.	-	-	-	-	-	-	6													
+Luís Eduardo Magalhães	DEM	BA	2	1990	1997	8	QQ: +2$ se Antônio Carlos Magalhães for GOV ou SEN	-	-	-	-	-	-	1	2												
+Paulo Souto	DEM	BA	2	1990	-	8 / 3	GOV: +1 Frç e +2 Leg / LEG: pode escolher entre 4 CPI quando realizar esta ação	-	-	-	-	-	-		6	3	6	4	2	4							
+Antônio Imbassahy	DEM	BA	1	1994	-	8	DEP: +1 Frç	-	-	4*	-	-	-			2	2	1									
+ACM Neto	DEM	BA	2	2002	-	8	DEP: +1 Frç e +1 Leg	-	-	-	-	-	-						1	2							
+Jaime Campos	DEM	CO	2	1990	-	8	QQ: +2$ caso Júlio Campos ocupe algum cargo.	-	-	-	-	-	-	4				4									
+Jofran Frejat	DEM	CO	1	1990	-	8	DEP: +2$ caso seu partido controle diretamente o M. SAU	-	-	-	-	-	2*							4							
+Jonas Pinheiro	DEM	CO	1	1990	2007	8	SEN: +1$	-	-	-	-	-	-		2		2										
+Júlio Campos	DEM	CO	2	1990	-	8	QQ: +2$ caso seu partido tenha mais mídias no CO	-	-	-	-	-	-	4		2											
+Ronaldo Caiado	DEM	CO	3	1990	-	8	DEP: +1 Leg para cada 3 que seu partido tiver.	-	-	-	-	-	-							4							
+Demóstenes Torres	DEM	CO	1	1998	-	3a	SEN: +1 no 1d6 ao tentar realizar a ação de CRR	-	-	-	-	-	-				2		3								
+Eliseu Resende	DEM	MG	1	1990	2010	8	DEP: +1 Frç para cada & que seu partido tiver.	-	-	-	-	-	-					5									
+Francelino Pereira	DEM	MG	2	1990	2002	8	SEN: +1 Frç para cada UF que o DEM governanr no NE	-	-	-	-	-	-	1	1												
+Siqueira Campos	DEM	N	2	1990	-	8	GOV: +2 Frç e +1 Leg	-	-	4	-	4	4	3	3	3			3								
+Kátia Abreu	DEM	N	3	1998	-	8	LEG +1 Frç para cada 3 que seu partido tiver.	-	-	-	3	3	3					3		3							
+Omar Aziz	DEM	N	1	1998	-	8	GOV: +1 Frç	-	-	-	-	-	3*						6	5							
+Divaldo Suruagy	DEM	NRL	1	1990	2002	8	GOV: +1 Frç	-	-	-	3*	-	-	2	6												
+Guilherme Palmeira	DEM	NRL	1	1990	2008	8	SEN: +1 Frç	-	-	-	-	-	-	5													
+Iberê Ferreira	DEM	NRL	1	1990	2014	8	DEP: +1 Frç para cada partido aliado ao seu.	-	-	-	-	3	3						3								
+João Alves Filho	DEM	NRL	2	1990	-	8	GOV: +2 Frç	-	-	-	-	-	-	6		3	4	3	3								
+José Agripino Maia	DEM	NRL	2	1990	-	8	QQ: +2 Frç caso Lavoisier Maia possua algum cargo.	-	-	-	-	-	-	8	3	4	2		3								
+Lavoisier Maia	DEM	NRL	2	1990	2010	8	DEP: +1 Leg e +1$	-	-	-	-	4	4	7	4												
+Benedito de Lira	DEM	NRL	1	1994	-	8	DEP: +1$	-	-	-	-	-	4*						2	2							
+Maria do Carmo Alves	DEM	NRL	1	1998	-	8	SEN: +2 Frç caso João Alves Filho possua algum cargo.	-	-	-	-	-	-			3		3		2							
+Rosalba Ciarlini	DEM	NRL	1	2006	-	8	M.SAU: +2$	-	-	4	-	2	-					4	6								
+Alexandre Costa	DEM	NRN	1	1990	1998	8	SEN: +1 Leg	-	-	-	-	-	-	3	2												
+Edison Lobão	DEM	NRN	2	1990	-	8	QQ: +2 Frç caso aliado ou mesmo partido de José Sarney	-	-	-	6*	-	-	6	2		2		3								
+Freitas Neto	DEM	NRN	1	1990	2010	8	SEN: +2$ caso Hugo Napoleãoocupe qualquer cargo.	-	-	4*	-	-	-	8	3		2										
+Heráclito Fortes	DEM	NRN	2	1990	-	8	GOV: +2$	-	-	-	-	-	-				2										
+Hugo Napoleão	DEM	NRN	2	1990	-	8	QQ: +1 Leg	-	-	-	-	-	-	2	3	4	4	2									
+João Alberto de Souza	DEM	NRN	1	1990	-	8	LEG: +2 Frç caso a vertente do seu partido seja "Bandido Bom é Bandido Morto"	-	-	-	2*	-	-			4			2								
+José Reinaldo Tavares	DEM	NRN	1	1990	-	8	QQ: +2$ caso aliado ou mesmo partido de José Sarney	4*	-	-	-	-	-				5										
+Paulo Lustosa	DEM	NRN	1	1990	2002	8	MIN: +1 Leg para cada Personalidade o que tiver.	-	-	-	-	-	-	4													
+Zequinha Sarney	DEM	NRN	2	1990	-	8	QQ: +1 Frç e +1$ caso José Sarney for GOV ou SEN	4*	-	-	-	-	-	1	1	1	1	1	1								
+Ciro Nogueira	DEM	NRN	2	1994	-	8	DEP: +1 Frç para cada G que seu partido tiver.	-	-	-	-	-	4*						2								
+Gustavo Krause	DEM	PE	1	1990	2010	8	MIN: +1 Frç para cada UF que o DEM governanr no NE	-	-	-	-	-	-		3												
+Inocêncio Oliveira	DEM	PE	2	1990	-	8	DEP: +3$ se seu partido controlar diretamente o M.TRB	-	-	-	-	-	4*			1	1	1	1								
+Joaquim Francisco	DEM	PE	2	1990	-	8	DEP: +1 Leg	3	-	-	-	3	3	8													
+José Jorge	DEM	PE	1	1990	-	8	DEP: +2 Frç caso seu partido seja aliado ao PSDB	-	-	-	-	-	-			2											
+Marco Maciel	DEM	PE	2	1990	-	8	VICE: +1 Frç e +1 Leg para cada UF que o DEM governanr no NE	-	-	-	-	-	-	4			3		1								
+Roberto Magalhães	DEM	PE	2	1990	-	8	DEP: +1 Leg para cada G que seu partido tiver.	-	-	-	-	-	-	2		2											
+Mendonça Filho	DEM	PE	1	1994	-	8	DEP: +2 Frç caso Jarbas Vasconcelos possua algum cargo.	-	-	-	-	-	-					4									
+Jaime Lerner	DEM	PR	2	1990	2002	8	GOV: +1 Frç pra cada & e ® que seu partido tiver.	-	-	-	-	-	-	2	6	6											
+Cassio Taniguchi	DEM	PR	1	1998	-	8	DEP: +1$	-	-	-	-	-	-			2	2										
+Luís Paulo Conde	DEM	RJ	1	1994	-	8	GOV: +1 Frç	-	-	-	4*	-	-			3	3	1									
+Rodrigo Maia	DEM	RJ	1	1998	-	8	DEP: +2 Frç caso César Maia tenha algum cargo.	-	-	-	-	-	-							1							
+Jorge Bornhausen	DEM	SC	3	1990	2010	8	GOV ou LEG: +2 Frç e +2$	-	-	-	-	-	-			3				3							
+Vilson Kleinubing	DEM	SC	1	1990	1998	8	GOV: +1 Leg	-	-	-	-	-	-	8	4												
+Raimundo Colombo	DEM	SC	1	1998	-	8	GOV: +2$	-	-	-	-	-	-					5	6	6							
+Guilherme Afif Domingos	DEM	SP	3	1990	-	8	QQ: +1$ para cada Ministro do seu partido	-	-	-	-	2	4	4				4			1						
+Romeu Tuma	DEM	SP	1	1990	2010	8	SEN: +2 Frç se sua Base Aliada controlar o GOV-SP	-	-	-	-	4	2		2	1	2										
+Gilberto Kassab	DEM	SP	2	1998	-	8	GOV: +1$ pra cada Governador do seu partido.	-	-	-	-	-	-						3								
+João Durval	PED	BA	2	1990	-	8	QQ: +2 Frç se seu partido for aliado do DEM	-	-	-	-	-	-		3			2									
+Joaquim Roriz	PED	CO	3	1990	-	8	GOV: +3$	-	-	-	-	-	-	5		5	5	5	4								
+José Arruda	PED	CO	1	1990	-	8	GOV ou LEG: +2$	4	-	4	-	2	-		3			5									
+Lúcia Vânia	PED	CO	1	1990	-	8	LEG: +1 Frç	-	-	3*	-	-	-		3		2		4								
+Lúdio Coelho	PED	CO	2	1990	2010	8	SEN: +2 Frç caso a vertente do seu partido seja "Agronegócio"	-	-	3*	-	-	-	2	2												
+Paulo Otávio	PED	CO	2	1990	-	8	LEG: +1 Frç para cada F do seu partido.	-	-	-	-	-	-				2										
+Pedro Pedrossian	PED	CO	1	1990	2002	8	GOV: +2 Leg	-	-	-	2	-	2	4													
+Walmir Campelo	PED	CO	1	1990	2002	8	QQ: +1 Frç para cada G que seu partido tiver.	-	-	-	-	-	-	4	5												
+Alcides Rodrigues	PED	CO	1	1998	-	8	GOV: +1$ para cada V que seu partido tiver.	-	-	-	-	-	-					5									
+Blairo Maggi	PED	CO	3	2002	-	8	QQ: +1$ para cada 3 que seu partido tiver.	-	-	-	-	-	-				4	5	3								
+Hélio Costa	PED	MG	1	1990	-	8	M. COM: +1 Frç pra cada UF em que seu partido tiver mais mídia que outros partidos.	-	-	-	3*	-	-	4	4		2		4								
+Hélio Garcia	PED	MG	2	1990	1998	8	GOV: +2 Leg	-	-	-	-	-	-	5													
+Itamar Franco	PED	MG	1	1990	2011	8	VICE: +2 Leg	-	-	-	2	-	4	4		6			2								
+José Alencar	PED	MG	2	1990	2010	8	VICE: +2 Frç	-	-	-	3	-	3		1	2											
+Eduardo Braga	PED	N	2	1990	-	8	GOV: +1$ para cada g que seu partido tiver.	-	-	-	4	-	4			4	5	5	4	4							
+Ivo Cassol	PED	N	3	1990	-	8	GOV: +1 Frç	3	-	3	-	3	3				3	3	3								
+Mozarildo Cavalcanti	PED	N	1	1990	-	8	LEG: +1 Leg	-	-	-	-	-	-			3		3									
+Neudo Ribeiro Campos	PED	N	1	1990	-	5b	GOV: +1 no 1d6 de CRR	-	-	-	-	-	-		3	3											
+Ottomar Pinto	PED	N	1	1990	2007	8	M.DEF: +2 Leg	-	-	4*	-	-	-	3			3										
+Alfredo Nascimento	PED	N	2	1994	-	8	MIN: +1$ pra cada outro Ministro do seu partido.	-	-	-	-	-	-					4	2								
+Antônio Carlos Valadares	PED	NRL	1	1990	-	8	LEG: +2 Frç	3	-	-	-	-	3	4	2		1		1								
+Fernando Collor	PED	NRL	3	1990	-	8	EXE: +1 Frç e +1$ para cada UF que o PED governanr no NE	-	-	-	-	-	-	5			3	3	2	4	5						
+Jackson Barreto	PED	NRL	1	1990	-	8	DEP: +1$ para cada partido aliado ao seu.	4	-	-	2	-	2		3	1	3			4							
+Wlima de Faria	PED	NRL	1	1990	-	8	GOV: +1$ caso seu partido seja aliado ao DEM	3	-	-	-	-	3				4	5	2	4							
+Robinson Faria	PED	NRL	1	2002	-	8	DEP: +1 Leg e +1$	-	-	-	-	-	-							5							
+Eduardo Amorim	PED	NRL	1	2010	-	8	SEN: +1$	-	-	-	-	-	-						1	3							
+Epitácio Cafeteira	PED	NRN	1	1990	-	APS	QQ: +2 no 2d6 em caso de APS direto contra qualquer político da Família Sarney	4	-	-	-	-	2	8	4	3	2	3									
+João Castelo	PED	NRN	1	1990	-	8	QQ: +2 Leg caso a vertente do seu partido seja "Desenvolvimentismo"	-	-	4*	-	-	-	4	2	1	1	3	1								
+Lúcio Alcântara	PED	NRN	1	1990	-	8	SEN: +1 Leg para cada & que seu partido tiver.	-	-	3	-	3	3	1	3		5	3	1								
+Mão Santa	PED	NRN	1	1994	-	CRR	SEN: +1$ para cada ação de CRR realizada com sucesso pelo seu partido.	-	-	-	4	-	2		4	4	2	2									
+Cid Gomes	PED	NRN	1	1998	-	8	QQ: +2 Frç caso Ciro Gomes ocupe quealquer cargo.	-	-	-	-	-	-					7	7								
+João Vicente Claudino	PED	NRN	2	2006	-	8	SEN: +1$ para cada g que seu partido tiver.	-	-	-	-	-	-					5									
+Afonso Camargo	PED	PR	3	1990	2010	8	DEP: +1 Leg	-	-	3	-	3	3	2													
+Álvaro Dias	PED	PR	2	1990	-	APS	SEN: +2 no 2d6 em ataque direto a Luís Inácio Lula da Silva	4	-	2	-	-	4	5	4	3	4	5		7							
+Osmar Dias	PED	PR	1	1990	-	8	DEP: +2 Frç caso esteja no mesmo partido que Álvaro Dias	3	-	3	-	-	3		2		3	4	5								
+Zé Eduardo de Andrade Vieira	PED	PR	3	1990	2002	8	MIN: +2$	-	-	-	-	-	-	3													
+Francisco Dornelles	PED	RJ	3	1990	-	8	LEG: +1$ e +1 Frç pra cada partido aliado ao seu.	-	-	-	-	-	-					4									
+Roberto Campos	PED	RJ	2	1990	2001	APS	LEG: +2 no 2d6 em caso de APS do PED contra politicos do PMDB	-	-	-	-	-	-														
+Roberto Jefferson	PED	RJ	1	1990	2006	8	DEP: pode retirar um i de outro qualquer político.	-	-	-	-	-	-														
+Eduardo Paes	PED	RJ	2	1998	-	8	QQ: +1$ se sua Base Aliada controlar a PRS	-	-	3	3	3	3					1	3	3							
+Jair Bolsonaro	PED	RJ	1	1990	-	8	DEP: +2 Frç caso a vertente do seu partido seja "O Sangue de Jesus tem Poder"	-	-	-	-	-	-														
+Marcelo Crivella	PED	RJ	1	2002	-	8	QQ: +1 Frç para cada Personalidade V que tiver.	-	-	-	-	-	-				2	4	3	3							
+Rosinha Garotinho	PED	RJ	1	2002	-	8	GOV: +2$ e +2 Frç caso Anthony Garotinho seja PRS	-	-	-	-	-	-				6										
+Nelson Merchesan	PED	RS	2	1990	2002	8	DEP: +1 Leg	-	-	4*	-	-	-	4													
+Sérgio Zambiasi	PED	RS	1	1990	-	8	SEN: +2$	-	-	-	-	-	-				2										
+Emília Fernandes	PED	RS	1	1994	-	8	LEG: +1$ e +1 Frç caso esteja no mesmo partido do Sérgio Zambiasi	3	3	-	-	-	3		2	1	1										
+Ana Amélia Lemos	PED	RS	1	2010	-	8	GOV: +1 Frç para cada ¾ que seu partido tiver.	-	-	-	-	-	-						2	4							
+Ângela Amim	PED	SC	2	1990	-	8	GOV: +2 Frç se Esperdião Amim for LEG	-	-	-	-	-	-		4	2	2		3								
+Esperidião Amim	PED	SC	2	1990	-	8	DEP: +3$ / GOV: +3 Frç / SEN: +3 Leg	-	-	-	-	-	-	8		6	4	4				1					
+Paulo Bauer	PED	SC	2	1990	-	8	LEG: +2$	-	-	3	3	-	3						3	3							
+Enéas Carneiro	PED	SP	0	1990	2006	8	PRS: +2 Leg	-	-	-	-	-	-				4	1				1	1				
+Francisco Rossi	PED	SP	1	1990	-	8	GOV: +1$	4	-	-	2	-	2		3	2											
+José Maria Eymael	PED	SP	0	1990	-	8	PRS: +1$ para cada Personalidade V que tiver.	-	-	-	-	-	-														
+Paulo Maluf	PED	SP	3	1990	-	5b / CRR	GOV: +1 no 1d6 de CRR / PRS: +1 no 1d6 de CRR para qq político do PED.	-	-	-	-	-	-	7	3	4	4	3	1		1						
+Celso Pitta	PED	SP	1	1994	2009	8	QQ: +2$ se Paulo Maluf tiver em algum cargo EXE	-	-	-	-	-	-			3											
+Celso Russomano	PED	SP	1	1994	-	8	GOV: +2$	-	-	4	-	-	2		1			1	1	3							
+Levy Fidelix	PED	SP	0	1998	-	8	PRS: -2 Frç para o partido mais fraco.	-	-	-	-	-	-														
+Gabriel Chalita	PED	SP	1	2010	-	8	QQ: +1$ para cada Personalidade V que tiver.	-	-	-	-	-	-						1								
+Tiririca	PED	SP	0	2010	-	8	DEP: +1$ para cada Personalidade ® que tiver.	-	-	-	-	-	-						3	2							
+João Henrique Carneiro	PIE	BA	1	1998	-	8	DEP: +2 Frç se pertencer ao mesmo partido de João Durval	-	-	-	3	-	3					2	2								
+Dante de Oliveira	PIE	CO	0	1990	2006	8	GOV: +1 Frç para cada partido aliado ao seu.	-	-	3*	-	-	-		5	4	1										
+Agnelo Queiroz	PIE	CO	0	1994	-	8	DEP: +2$	-	4*	-	-	-	-					4	5	2							
+Rodrigo Rollemberg	PIE	CO	1	1998	-	8	LEG ou GOV: -1 Frç para outro partido para cada 3 que tiverem.	-	-	-	-	-	-						3	5							
+Pedro Taques	PIE	CO	0	2010	-	6	SEN: +2 Frç pra cada julgamento terminado em condenação	-	-	-	-	-	-						2	4							
+Célio de Castro	PIE	MG	1	1990	2002	8	M.SAU: +1 Leg	-	-	-	-	-	-			2											
+Júnia Marise	PIE	MG	1	1990	2002	8	SEN: +1 Leg	-	-	-	-	-	-	3		1											
+Márcio Lacerda	PIE	MG	2	2002	-	8	QQ: +1 Frç se seu partido for da Base Aliada do Ciro Gomes	-	-	-	-	-	-							2							
+João Capiberibe	PIE	N	1	1990	-	8	GOV: +2 Frç caso seu partido controle mais @ que qualquer outro partido.	-	-	-	-	-	-		3	3			3								
+Waldez Goés	PIE	N	1	1998	-	5b / CRR	GOV: +1 no 1d6 de CRR / PRS: +1 no 1d6 de CRR para qq político do PIE.	-	-	-	-	-	-				3	3		5							
+Randolfe Rodrigues	PIE	N	0	2010	-	8	SEN: -1 Frç para outro partido para cada V que tiverem.	-	-	-	-	-	-						3								
+Ronaldo Lessa	PIE	NRL	1	1990	-	8	GOV: +1 Frç	-	-	-	-	-	-			4	4	3	2								
+Ricardo Coutinho	PIE	NRL	0	2002	-	8	GOV: +1 Frç para cada @ que seu partido tiver.	-	-	-	-	-	-					3	4	5							
+Haroldo Saboia	PIE	NRN	1	1990	-	8	DEP: +1 Frç	2	4	-	-	-	-			1	1										
+Jackson Lago	PIE	NRN	1	1990	2010	8	QQ: +2 Frç caso Leonel Brizola ocupe quealquer cargo.	-	-	-	-	-	-	1	2	1	4	5	1								
+Inácio Arruda	PIE	NRN	1	1994	-	8	LEG: +1 Frç para cada @ que seu partido tiver.	-	-	-	-	-	-			1	1	5									
+Flávio Dino	PIE	NRN	1	2006	-	8	GOV: +1 Frç para cada G que seu partido tiver.	-	-	-	-	-	-						2	6							
+Wilson Martins	PIE	NRN	2	2006	-	8	GOV: +1$ para cada partido aliado ao seu.	-	-	-	-	-	-						4	3							
+Miguel Arraes	PIE	PE	2	1990	2005	8	GOV: +2 Leg e +2 Frç	-	-	-	-	-	-	6	6	3											
+Roberto Freire	PIE	PE	1	1990	-	8	DEP: +3$	-	-	-	-	-	-	1	2												
+Eduardo Campos	PIE	PE	2	1994	2014	8	GOV: +2$ e +2 Frç	-	-	-	-	-	-			2	2	6	8								
+Paulo Câmara	PIE	PE	1	2010		8	GOV: +2$	-	-	-	-	-	-							5							
+Cidinha Campos	PIE	RJ	1	1990	-	8	DEP: +1 Frç para cada ¾ que seu partido tiver.	-	-	-	-	-	-	1	1												
+Darcy Ribeiro	PIE	RJ	0	1990	1997	8	QQ: +3 Leg caso a vertente do seu partido seja "Ideologia Socialista"	-	-	-	-	-	-	4													
+Fernando Gabeira	PIE	RJ	1	1990	-	8	DEP: +1$ pra cada partido de sua Base Aliada	-	-	-	-	-	-	1					4								
+Jandira Feghali	PIE	RJ	0	1990	-	8	DEP: +1 Frç para cada mulher de seu partido com cargo.	-	-	-	-	-	-				1	3									
+Jorge Roberto Silveira	PIE	RJ	1	1990	-	8	QQ: +1 Frç caso seu partido controle diretamente o GOV-RJ	-	-	-	-	-	-				2										
+Leonel Brizola	PIE	RJ	2	1990	2002	8	EXE: +2 Leg e +2 Frç	-	-	-	-	-	-	7							2	1					
+Marcello Alencar	PIE	RJ	1	1990	2002	8	GOV: +2 Leg	-	-	3*	-	-	-	4	5												
+Miro Teixeira	PIE	RJ	1	1990	-	8	DEP: +2 Leg	2	4	-	4	-	4														
+Anthony Garotinho	PIE	RJ	1	1994	-	8	GOV: +2$	-	-	-	-	-	2*		3	6			4	2				2			
+Lindberg Farias	PIE	RJ	1	1994	-	8	LEG: +1$ pra cada Personalidade & que seu partido tiver.	-	4*	-	-	-	-						2	1							
+Marcelo Freixo	PIE	RJ	0	2006	-	8	DEP: -2 Frç para o partido com mais Mídia.	-	-	-	-	-	-						1	2							
+Romário	PIE	RJ	1	2010	-	8	SEN: -1 Frç para outros partidos de oposição para cada  que tiverem.	-	-	-	-	-	-						1	3							
+Alceu Collares	PIE	RS	0	1990	-	8	GOV: +3 Frç	-	-	-	-	-	-	6													
+Dilma Rousseff	PIE	RS	1	1990	-	8 / 5a	M. DES: +3 Frç / PRS: se quiser, pode realizar n ações com sucesso automatico por 1 Str cada	-	6*	-	-	-	-													6	5
+José Paulo Bisol	PIE	RS	0	1990	2002	8	QQ: +2 Frç caso seu partido seja aliado do PSDB	-	-	-	-	-	-			1											
+Luicana Genro	PIE	RS	1	2006	-	8	PRS: -1 Frç para cada personalidade H e o de qualquer partido.	-	-	-	-	-	-														1
+Manuela D'Ávilla	PIE	RS	0	2006	-	8	QQ: +1 Leg caso o GOV-RS seja de sua Base Aliada	-	-	-	-	-	-						2								
+Sérgio José Grando	PIE	SC	0	1990	-	8	GOV: +1 Frç	-	-	-	-	-	-		2												
+Geddel Vieira Lima	PMDB	BA	3	1990	-	8	DEP: +1$ para cada Personalidade o que tiver.	-	-	-	-	-	-						2	3							
+Waldir Pires	PMDB	BA	2	1990	2010	8	MIN: +2 Leg	3	3	4	4	-	-	7	2		2										
+Carlos Bezerra	PMDB	CO	2	1990	-	8	QQ: +1 Leg	-	-	-	-	-	-	4	2	2	1										
+Íris Rezende	PMDB	CO	3	1990	-	8	LEG ou GOV: +3 Frç	-	-	-	-	-	-	5	4	5			4	4							
+Luís Estevão	PMDB	CO	1	1998	-	5b	GOV: +1 no 1d6 de CRR	-	-	-	-	-	-			3											
+Maguito Vilela	PMDB	CO	1	1990	-	8	GOV: +1$ para cada O que seu partido tiver.	-	-	-	-	-	-		5	3	3	4									
+Ramez Tebet	PMDB	CO	2	1990	2006	8 / 3	LEG: Pode escolher entre 4 CPI's para enviar ao STF	-	-	-	-	-	-		2		2	3									
+André Puccinelli	PMDB	CO	1	1994	-	8	GOV: +1$ para cada Personalidade H que tiver.	-	-	-	-	-	-					5	4								
+Silval Barbosa	PMDB	CO	1	2006	-	8	GOV: +2 Frç caso o PMDB seja aliado do PED	-	-	-	-	-	-						4								
+Newton Cardoso	PMDB	MG	3	1990	-	5b	GOV: +1 no 1d6 de CRR	-	-	-	-	-	-	5				2									
+Ronan Tito	PMDB	MG	1	1990	1998	8	SEN: +1 Frç	-	-	-	-	-	-	1													
+Sérgio Naya	PMDB	MG	1	1990	2008	8	DEP: +1$ para cada F que seu partido tiver.	-	-	-	-	-	4*	1													
+Amazonino Mendes	PMDB	N	1	1990	-	8	GOV: +2$	-	-	-	3	3	3	8	6	5		4									
+Gilberto Mestrinho	PMDB	N	2	1990	2009	8	GOV: +2 Leg	-	-	-	-	-	-	5		4	2	1									
+Jader Barbalho	PMDB	N	3	1990	-	8	LEG: +3 Frç caso seu partido tenha mais mídia no N que qualquer outro partido.	-	-	-	-	-	-	5	3	4											
+Romero Jucá	PMDB	N	1	1990	2014	8	SEN: +1 Leg para cada Personalidade o que tiver.	-	-	3	3	-	-	3	3		3		3								
+Valdir Raup	PMDB	N	1	1990	2014	8	SEN: +2 Frç caso seu partido governe SC	-	-	-	-	-	-		3		3		3								
+Cássio Cunha Lima	PMDB	NRL	2	1990	-	8	GOV: +2$	-	-	4*	-	-	-				4	4	2	4							
+Garibaldi Alves Filho	PMDB	NRL	2	1990	-	8	SEN ou GOV: +3 Frç caso seu partido tenha mais mídia no NRL que qualquer outro partido.	-	-	-	-	-	-	5	5	5	3	4	4								
+Geraldo Melo	PMDB	NRL	1	1990	-	8	SEN: +2 Frç caso seu partido controle mais ¾ que qualquer outro partido.	-	-	3	3	-	-	5	4		1	1									
+Henrique Eduardo Alves	PMDB	NRL	1	1990	-	8	DEP: +3 Frç caso seu partido tenha mais mídia no NRL que qualquer outro partido.	-	-	-	-	-	-							4							
+Humberto Lucena	PMDB	NRL	2	1990	1998	8	SEN: +2 Leg	-	-	-	-	-	-	2	1												
+José Maranhão	PMDB	NRL	2	1990	-	8	GOV: +2 Frç	-	-	-	-	-	-			6	1	3	3	2							
+Renan Calheiros	PMDB	NRL	2	1990	-	8 e CRR	SEN: +2 Frç e +1 no 1d6 de CRR para qq político do PMDB.	-	-	-	-	-	-	3	1		3		2								
+Ronaldo Cunha Lima	PMDB	NRL	1	1990	2012	8	DEP: +2 Frç caso esteja no mesmo partido que Cícero Lucena	-	-	4*	-	-	-	5	1												
+Teotônio Vilela Filho	PMDB	NRL	2	1990	-	8	SEN: +2 Leg / GOV: +2 Frç	-	-	4*	-	-	-	2	2		2	5	3								
+Cícero Lucena	PMDB	NRL	2	1998	-	8	SEN: +2 Frç caso esteja no mesmo partido que Ronaldo Cunha Lima	-	-	3*	-	-	-					2									
+Fernado Bezerra	PMDB	NRL	2	1998	-	8	M. DES: +2$	-	-	-	3	-	3			3	2	4									
+Renan Calheiros Filho	PMDB	NRL	1	2010	-	8	GOV: +2 Frç caso Renan Calheiros ocupe o SEN	-	-	-	-	-	-						1	4							
+Alberto Silva	PMDB	NRN	1	1990	2009	8	LEG: +2 Leg	-	-	-	-	-	-	4		3											
+Gonzaga Mota	PMDB	NRN	2	1990	-	8	DEP: +2 Frç caso a vertente do seu partido seja "Coronelismo"	-	-	4*	-	-	-			2											
+José Sarney	PMDB	NRN	3	1990	2014	8	SEN ou GOV: +1 Frç e +1 Leg pra cada partido de sua Base Aliada.	-	-	-	-	-	-	3		3		3									
+Juraci Magalhães	PMDB	NRN	1	1990	2008	8	GOV: +1 Frç para cada F que seu partido tiver.	-	-	-	4	4	4	2	4	2	2										
+Mauro Benevides	PMDB	NRN	1	1990	-	8	LEG: +1$ para cada G que seu partido tiver.	-	-	-	-	-	-	3	1												
+Gastão Vieira	PMDB	NRN	1	1994	-	8	QQ: +2$ se José Sarney for GOV ou SEN	-	-	-	-	-	-						1	3							
+Roberto Rocha	PMDB	NRN	1	1994	-	8	DEP: +2$ caso seu partido cgoverne NRN	4	-	4	4	-	-							4							
+Roseana Sarney	PMDB	NRN	2	1994	2014	8	GOV: +3 Frç se José Sarney for SEN	-	-	-	-	-	-		4	5	3	4	5								
+Eunício Oliveira	PMDB	NRN	2	1998	-	8	LEG: +2 Frç caso seu partido cgoverne NRN	-	-	-	-	-	-					1	3	4							
+Edison Lobão Filho	PMDB	NRN	1	2010	-	8	GOV: +2 Frç caso Edison Lobão ocupe algum MIN	-	-	-	-	-	-							3							
+Carlos Wilson	PMDB	PE	2	1990	2006	8	QQ: +2 Frç se seu partido controlar a PRS	-	3	3	3	-	3		2	1	2										
+Jarbas Vasconcelos	PMDB	PE	2	1990	-	8	GOV: +2 Frç e +1$ / SEN: +2 Leg e +1 Frç	-	-	-	-	-	-	5	2	7	7	6	2								
+Sérgio Guerra	PMDB	PE	1	1990	-	8	DEP: +2 Frç	-	-	4*	-	-	-				2										
+Armando Monteiro	PMDB	PE	1	1998	-	8	LEG: +1$ para cada F que seu partido tiver.	-	-	-	3	-	3						3	4							
+Rafael Greca	PMDB	PR	1	1990	2006	8	QQ: +2 Frç caso seu partido controle mais & que qualquer outro partido.	-	-	-	-	-	-		2												
+Roberto Requião	PMDB	PR	3	1990	-	8	GOV ou SEN: +1 Leg e +1 Frç pra cada ¾ que seu partido contolar.	-	-	-	-	-	-	5	3	5	5	5	2	3							
+Gustavo Fruet	PMDB	PR	1	1998	-	8	GOV: +1 Frç	3	-	3	-	-	-							2							
+César Maia	PMDB	RJ	1	1990	-	APS	QQ: +2 no 2d6 em caso de APS direto contra Anthony Garotinho.	-	-	-	4	4	4	1	3	4	2	3	1	1							
+Moreira Franco	PMDB	RJ	2	1990	-	8	QQ: +1 Frç	-	-	-	-	-	-	5													
+Sérgio Cabral Filho	PMDB	RJ	2	1994	-	8	GOV: +3$ se sua Base Aliada controlar a PRS	-	-	-	-	-	-			2	2	6	7								
+Eduardo Cunha	PMDB	RJ	1	2002	-	8	DEP: -2 Frç para partidos com vertente Defesa de Minorias	-	-	-	-	-	-														
+Leonardo Picciani	PMDB	RJ	1	2002	-	8	DEP: +1 Frç	-	-	-	-	-	-					1	1								
+Luiz Fernando Pezão	PMDB	RJ	1	2002	-	8	GOV: +1$	-	-	-	-	-	-							5							
+Antônio Britto	PMDB	RS	2	1990	2002	8	QQ: +2 Frç se seu partido possuir mais Mídias no RS.	-	-	-	-	-	4*		5	5											
+Germano Rigotto	PMDB	RS	2	1990	-	8	QQ: +1 Leg	-	-	-	-	-	-				5	3	2								
+José Fogaça	PMDB	RS	1	1990	-	8	QQ: +1 Frç para cada conjunto & e G que seu partido tiver.	-	-	-	-	-	-	2	3			2	5								
+Nelson Jobim (99-06 - STF)	PMDB	RS	2	1990	-	8	M.DEF: +3 Frç	-	-	-	-	-	-														
+Pedro Simon	PMDB	RS	1	1990	-	8	SEN ou GOV: +3 Leg	-	-	-	-	-	-	8		2		2		1							
+Casildo Maldaner	PMDB	SC	1	1990	-	8	SEN: +2 Frç caso seu partido governe SC	-	-	-	-	-	-		3												
+Luiz Henrique da Silveira	PMDB	SC	2	1990	-	8	LEG ou GOV: +1 Frç e +1 Leg	-	-	-	-	-	-				5	5	3								
+Paulo Evangelista Vieira	PMDB	SC	1	1990	2006	8	GOV: +1$	-	-	-	-	-	-	3	5	2											
+Leonel Pavan	PMDB	SC	1	1994	-	8	LEG: +1 Frç	-	-	3*	-	-	-				3										
+Dário Berger	PMDB	SC	1	2006	-	8	GOV: +1$	-	-	-	-	-	-					2	2	4							
+Aloysio Nunes	PMDB	SP	1	1990	-	3	M.JST: -2 no 2d6 caso qq GOV do seu partido seja alvo de Cassação	-	-	4*	-	-	-		1				3								
+Calso Amorim	PMDB	SP	1	1990	-	8	M.EXT: +2 Frç	-	6*	-	-	-	-														
+Luís Antônio Fleury Filho	PMDB	SP	1	1990	-	8	GOV: +2 Frç	-	-	-	-	-	4*	3													
+Michel Temer	PMDB	SP	3	1990	-	8	DEP: +3 Frç	-	-	-	-	-	-	1	1	1	1	1	1	1							
+Orestes Quércia	PMDB	SP	2	1990	2010	8	EXE: +2$ e +2 Frç	-	-	-	-	-	-	5	1	1	1	1				1					
+Ulyssess Guimarães	PMDB	SP	2	1990	1992	8	PRS: +5 Leg	-	-	-	-	-	-	2							1						
+Jutahy Magalhães Júnior	PSDB	BA	2	1990	-	8	DEP: +1 Frç e +1 Leg caso seu partido seja aliado ao DEM.	-	-	-	-	-	-		2												
+Lídice da Mata	PSDB	BA	0	1990	-	8	QQ: -2 Leg ao DEM	3*	-	-	-	-	-		2				2								
+Antero Paes de Barros	PSDB	CO	1	1990	-	8	SEN: +2 no 2d6 em ataque direto a Blairo Baggi	-	-	-	-	-	-			3	2	1									
+Maria de Lourdes Abadia	PSDB	CO	1	1990	-	8	GOV: +1 Leg	-	-	-	-	-	-		2			2									
+Marconi Perillo	PSDB	CO	2	1994	-	8	GOV: +3$	-	-	-	-	-	-			4	5	7	5	5							
+Marisa Serrano	PSDB	CO	0	1998	-	8	LEG: +1 Frç caso seu partido controle mais & que qualquer outro partido.	-	-	-	-	-	-				3										
+Aécio Neves	PSDB	MG	3	1990	-	8	GOV ou SEN: +1$ e +1 Frç pra cada H que seu partido contolar.	-	-	-	-	-	-				6	8	4								4
+Eduardo Azeredo	PSDB	MG	1	1990	-	8	LEG: +2 Frç caso a vertente do seu partido seja "Política Café-com-Leite"	-	-	-	-	-	-		8	4	2										
+Pimenta da Veiga	PSDB	MG	2	1990	-	8	M.COM: +2 Leg	-	-	-	-	-	-	3						3							
+Antônio Anastácia	PSDB	MG	1	1994	-	8	M.TRB: +2 Frç caso o PSDB controle diretamente a PRS	-	-	-	-	-	-						7	4							
+Almir Gabriel	PSDB	N	2	1990	-	8	M.SAU: +1 Frç	-	-	3	-	-	3	2	5	5		4									
+Arthur Virgílio	PSDB	N	1	1990	-	APS	QQ: +2 no 2d6 em caso de APS contra o partido do atual PRS	-	-	-	-	-	-	4			3		2								
+Mário Couto	PSDB	N	1	1990	-	3	DEP: +1 no 1d6 de CRR	-	-	-	-	-	-				1	3									
+Flexa Ribeiro	PSDB	N	2	1998	-	8	SEN: +1 Frç para cada F que seu partido tiver.	-	-	-	-	-	-						5								
+Simão Jatene	PSDB	N	1	2002	-	8	GOV: +1 Frç para cada ® que seu partido tiver.	-	-	-	-	-	-				5		5	5							
+José Anchieta Júnior	PSDB	N	1	2006	-	8	GOV: +1$	-	-	-	-	-	-					3	3								
+Albano Franco	PSDB	NRL	2	1990	-	8	LEG ou GOV: +2 Leg	-	-	-	-	-	-	4	4	4											
+João Faustino	PSDB	NRL	1	1990	-	8	DEP: +2 Frç caso seu partido seja aliado ao DEM	-	-	-	-	-	-	5													
+Beni Veras	PSDB	NRN	1	1990	2006	8	QQ: +1 Frç caso Tasso Jereissati governe SC	-	-	-	-	-	-	4													
+Ciro Gomes	PSDB	NRN	2	1990	-	8	QQ: -2 Frç para cada o de outro partido não aliado.	4*	-	-	-	-	-	6				2					2	2			
+Tasso Jereissati	PSDB	NRN	3	1990	-	8	QQ: +1 Frç pra cada estado em que o PSDB tiver mais mídia	-	-	-	-	-	-	6	6	7	3		2	5							
+Patrícia Saboya	PSDB	NRN	0	2002	-	8	LEG: +1 Frç caso Ciro Gomesocupe qualquer cargo.	4*	-	-	-	-	-				3										
+Flávio Arns	PSDB	PR	2	1990	-	8	LEG: +2$	-	3	3	-	-	-				2										
+José Richa	PSDB	PR	1	1990	1998	8	SEN: +2 Leg	-	-	-	-	-	-	3													
+Beto Richa	PSDB	PR	2	1998	-	8	GOV: +2 Frç	-	-	-	-	-	-					2	6	6							
+Artur da Távola	PSDB	RJ	1	1990	2008	8	LEG: +1 Leg para cada Personalidade ® que tiver.	-	-	-	-	-	-		2		1										
+Paulo Hartung	PSDB	RJ	1	1990	-	8	QQ: +2 Frç caso seu partido controle mais o que qualquer outro partido.	-	-	-	4*	-	-				2	2		2							
+Luís Paulo Corrêa da Rocha	PSDB	RJ	0	1994	-	8	DEP: +2 Frç se seu partido for aliado do PIE	-	-	-	-	-	-			2											
+Denise Frossard	PSDB	RJ	0	2002	-	8	LEG: -1 Frç para exercer influência no STF	-	-	3	-	-	3				2	3									
+Yeda Crusis	PSDB	RS	1	1990	-	8	QQ: +1 Frç caso seu partido controle diretamente a PRS ou o GOV-RS	-	-	-	-	-	-					5	2								
+André Franco Montoro	PSDB	SP	2	1990	1999	8	DEP: +2 Leg	-	-	-	-	-	-	1													
+Fernando Henrique Cardoso	PSDB	SP	2	1990	-	8	PRS: +2 Leg e +2$, o Legislativo não pode cancelar suas ações.	-	-	-	-	-	-	2								6	6				
+Geraldo Alckmin	PSDB	SP	2	1990	-	5b / CRR	GOV: +1 no 1d6 de CRR / PRS: +1 no 1d6 de CRR para qq político do PSDB.	-	-	-	-	-	-				6		7	6					4		
+José Anibal	PSDB	SP	1	1990	-	8	DEP: +2 Frç	-	-	-	-	-	-				1									4	
+José Serra	PSDB	SP	2	1990	-	1	QQ: Seus Dossiês custam -1$ e pode fazer 2 deles por turno.	-	-	-	-	-	-	2	3	1		9		7				4		4	
+Mário Covas	PSDB	SP	1	1990	2001	8	EXE: +2 Leg e +2 Frç	-	-	-	-	-	-	5	5	5					2						
+Paulo Renato	PSDB	SP	0	1990	-	8	M.EDC: +2$	-	-	-	-	-	-														
+Sérgio Motta	PSDB	SP	3	1990	1998	8	MIN: +4$ caso a vertente do seu partido seja "Neoliberalismo"	-	-	-	-	-	-														
+Jacques Wagner	PT	BA	1	1990	-	8	GOV: -2 Frç para o DEM	-	-	-	-	-	-				4	5	7								
+Walter Pinheiro	PT	BA	0	1998	-	8	LEG: +2 Leg caso seu partido seja mais forte que o DEM	-	-	-	-	-	-						3								
+Rui Costa	PT	BA	0	2002	-	8	GOV: +1 Frç para cada @ que seu partido tiver.	-	-	-	-	-	-							2							
+Cristovam Buarque	PT	CO	1	1990	-	8	M. EDU: +2 Frç	3*	-	-	-	-	-		3	4			3						1		
+Geraldo Magela	PT	CO	1	1990	-	8	DEP: +1 Leg	-	-	-	-	-	-				4			1							
+Lauro Álvares Campos	PT	CO	1	1990	2002	8	SEN: +1 Frç para cada G que seu partido tiver.	-	-	-	-	-	-		3												
+Zeca do PT	PT	CO	1	1990	-	5b	GOV: +1 no 1d6 ao tentar realizar a ação de CRR	-	-	-	-	-	-			5	4		3								
+Delcídio do Amaral	PT	CO	1	1998	-	8	M. DES: +1 Frç	-	-	-	-	-	-				2	2	2	4							
+Serys Slhessarenko	PT	CO	0	1998	-	8	SEN: +1 Frç caso seu partido controle mais & que qualquer outro partido.	-	-	-	-	-	5*				2	1									
+Nilmário Miranda	PT	MG	0	1990	-	8	GOV: +1 Frç para cada @ que seu partido tiver.	-	-	-	-	-	-				3	2									
+Patrus Ananias	PT	MG	1	1990	-	8	QQ: +1 Frç pra cada conjunto G e @ que seu partido tiver.	-	-	-	-	-	-	2		4											
+Fernando Pimentel	PT	MG	1	1994	-	8	M.DES: +2 Frç	-	-	-	-	-	-					2	4	5							
+Marina Silva	PT	N	0	1990	-	8	QQ: +3$ pra cada conjunto 3 e @ que seu partido tiver.	6*	-	-	-	-	-		3		3									2	3
+Ana Júlia Carepa	PT	N	0	1994	-	8	GOV: +1 Frç	-	-	-	-	-	-				3	5	4								
+Jorge Viana	PT	N	1	1994	-	8	GOV: +2 Frç pra cada conjunto & e @ que seu partido tiver.	-	-	-	-	-	-			3	3		3								
+Tião Viana	PT	N	1	1998	-	8	QQ: +1 Frç caso Ciro Gomes possua qualquer cargo	-	-	-	-	-	-			3		3	3								
+Paulo Rocha	PT	N	1	2006	-	8	DEP: +2 Frç caso seu partido controle a PRS	-	-	-	-	-	-							3							
+José Eduardo Dutra	PT	NRL	1	1990	-	8	M. DES: +1 Leg	-	-	-	-	-	-	1	1			2									
+Marcelo Déda	PT	NRL	1	1994	2012	8	GOV: +2 Frç	-	-	-	-	-	-					4	4								
+Heloísa Helena	PT	NRL	1	1998	-	8	SEN: +2 Frç caso a vertente do seu partido seja "Defesa de Minorias"	-	-	-	-	-	2*			2			1	2					1		
+Fátima Bezerra	PT	NRL	0	2002	-	8	DEP: +1 Frç cpara cada outra mulher de seu partido com cargo.	-	-	-	-	-	-						1	5							
+José Pimentel	PT	NRN	2	1990	-	8	DEP: +2 Leg	-	-	-	-	-	-						3								
+José Aírton Cirilo	PT	NRN	1	1998	-	8	DEP: +2$	-	-	-	-	-	-			1	4										
+Wellignton Dias	PT	NRN	1	1998	-	8	LEG ou GOV: +2 Frç se o PT for aliado ao PMDB	-	-	-	-	-	-				4	5	3	6							
+Luizianne Lins	PT	NRN	0	2006	-	8	GOV: +1$	-	-	-	-	-	-					2	2								
+Camilo Santana	PT	NRN	0	2010	-	8	GOV: +1 Frç	-	-	-	-	-	-							5							
+Humberto Costa	PT	PE	1	1990	-	8	M.SAU: +1 Frç									1	4	3	3								
+João Paulo Lima e Silva	PT	PE	0	2002	-	8	GOV: +1 Frç para cada @ que seu partido tiver.										2	2		3							
+Gleisi Hoffmann	PT	PR	1	2006	-	8	QQ: +2 Frç se Dilma Rousseff possuir um cargo LEG ou EXE	-	-	-	-	-	-					4	3	2							
+Benedita da Silva	PT	RJ	0	1990	-	8	SEN: +2 Frç	-	-	-	-	-	-		4		4										
+Jorge Bittar	PT	RJ	1	1990	-	8	DEP: +1 Frç pra cada Personalidade & que seu partido tiver.	-	-	-	-	-	-	3	2												
+Chico Alencar	PT	RJ	0	1998	-	3a	DEP: +2 no 2d6 ao realizar uma Cassação.	3*	-	-	-	-	-			1	1	1	2	2							
+José Fortunati	PT	RS	1	1990	-	8	QQ: +2 Frç caso o GOV-RS seja de seu partido	4*	-	-	-	-	-							2							
+Olívio Dutra	PT	RS	1	1990	-	8	GOV: +1 Frç para cada @ que seu partido tiver.	-	-	-	-	-	-	2	3	6		3		2							
+Paulo Paim	PT	RS	0	1990	-	8	LEG: +2 Frç caso sua Base Aliada controle o M.TRB	-	-	-	-	-	-				2		3								
+Raul Pont	PT	RS	0	1990	-	8	GOV: +1 Frç	-	-	-	-	-	-			2											
+Tarso Genro	PT	RS	2	1990	-	8	GOV: +2 Leg e +2 Frç	-	-	-	-	-	-	1	2		5		6	3							
+Miguel Rossetto	PT	RS	1	1998	-	8	M. DES: +2$	-	-	-	-	-	-					2									
+Luci Choinacki	PT	SC	1	1990	-	8	DEP: +1 Frç para cada @ que seu partido tiver.	-	-	-	-	-	-		2			2									
+Cláudio Vignatti	PT	SC	0	2002	-	8	DEP: +1$	-	-	-	-	-	-						2	2							
+Ideli Salvatti	PT	SC	1	2002	-	8	SEN: +1 Frç para cada @ que seu partido tiver.	-	-	-	-	-	-				3		2								
+Aloísio Mercadante	PT	SP	1	1990	-	8	QQ: +2 Leg caso uma CPI termine em condenação.	-	-	-	-	-	-			1	3	4	4								
+Eduardo Suplicy	PT	SP	1	1990	-	8	SEN: +3 Leg	-	-	-	-	-	-	5	2	4		4		3							
+Hélio Bicudo	PT	SP	0	1990	2005	8	M.FAZ: +1 Leg	-	-	-	-	-	-	1													
+José Dirceu	PT	SP	3	1990	-	4a	M.CCV: +2 no 2d6 ao realizar uma ação de Lobby.	-	-	-	-	-	-		2		1										
+José Eduardo Cardozo	PT	SP	1	1990	-	4d	M.JST: +2 Frç em caso de uma Investigação bem sucedida contra um partido mais fraco.	-	-	-	-	-	-														
+José Genoino	PT	SP	0	1990	-	4c	QQ: +2 no 1d6 caso o PT seja alvo de uma Coerção.	-	-	-	-	-	-			1	4										
+Luís Inácio Lula da Silva	PT	SP	2	1990	-	8 e 5a	PRS: +2 Frç e +2 Leg, caso realize uma açao de Network com sucesso, a Personalidade vai para o PT.	-	-	-	-	-	-	2							4	3	4	6	6		
+Luísa Erundina	PT	SP	0	1990	-	8	QQ: +2 Frç caso seu partido seja o mais fraco.	3*	-	-	-	-	-	3	2	2											
+Plínio de Arruda Sampaio	PT	SP	0	1990	2014	8	PRS: +3 Leg	3*	-	-	-	-	-	2													
+Celso Daniel	PT	SP	1	1994	-	8	GOV: +2 Leg	-	-	-	-	-	-														
+Marta Suplicy	PT	SP	0	1994	-	8	GOV: +1 Leg	-	-	-	-	-	-			3	3	2	4								
+Antônio Palocci	PT	SP	2	1998	-	4b	M.FAZ: +2 no 2d6 ao realizar uma ação de Imposto	-	-	-	-	-	-														
+Gilberto Carvalho	PT	SP	0	1998	-	8	QQ: +2 Frç caso seu partido controle diretamente a PRS	-	-	-	-	-	-														
+Ivan Valente	PT	SP	0	1998	-	8	DEP: +1 Frç	3*	-	-	-	-	-					1	1								
+Alexandre Padilha	PT	SP	0	2006	-	8	M.SAU: +1 Frç	-	-	-	-	-	-							1							
+Fernando Haddad	PT	SP	0	2006	-	4h	M.EDC: +1 Leg caso não faça a ação de CRR.	-	-	-	-	-	-							3							
