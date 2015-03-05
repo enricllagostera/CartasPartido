@@ -1,6 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:500,900,300,700,400);
 
 body {
+  -webkit-print-color-adjust:exact;
   font-family: 'Roboto', Arial;
 }
 
@@ -134,8 +135,8 @@ tr.votos_ano td {
 
 .PT {
   border-color: #fc0044;
-  background-color: #fc0044;
-  color: #fff;
+  background-color: #eee;
+  color: #fc0044;
 }
 
 .PSDB {
@@ -153,21 +154,21 @@ tr.votos_ano td {
 .PIE {
   border-color:#f00;
   background-color: #f00;
-  color: #ffc608;
+  color: #000;
 }
 
 h2 {
   position: absolute;
   display: block;
-  top: 2mm;
-  right: 2.5mm;
-  border: 1px solid black;
-  width: 18mm;
+  right: 1mm;
+  width: 15mm;
   height: 9mm;
   text-align: center;
   margin: 0;
-  padding: 1mm;
   font-weight: 900;
+  background-color: #dedede;
+  padding: 2mm;
+  font-size: 1.75em;
 }
 
 /* para impressao */
