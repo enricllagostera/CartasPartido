@@ -7,23 +7,28 @@ body {
 .carta {
   position: relative;
   border: 2px black solid;
-  width: 85mm;
-  height:55mm;
+  width: 65mm;
+  height: 45mm;
   overflow: hidden;
-  font-size: 11pt;
+  font-size: 9pt;
   float: left;
-  padding-left: 2.5mm;
+  padding-left: 1mm;
   margin: 2mm;
   page-break-inside: avoid;
 }
 
 .carta h1 {
+  margin: 0;
   padding: 0;
+  position: absolute;
+  width: 65%;
+  height: 15mm;
+  top: 2mm;
+  text-align: left;
   padding-left:1mm;
   font-weight: 900;
-  font-size: 16pt;
+  font-size: 11pt;
   line-height: 16pt;
-  width: 58mm;
   vertical-align: bottom;
   display: block;
 }
@@ -34,7 +39,7 @@ body {
   left: 2.5mm;
   text-align: center;
   border-top: 2px solid black;
-  width: 80mm;
+  width: 95%;
   margin: 0;
   padding: 0
 }
@@ -46,59 +51,35 @@ body {
 div.tipo {
   position: absolute;
   display: block;
-  top: 2mm;
-  right: 2.5mm;
-  width: 20mm;
-  height: 20mm;
+  right: 1mm;
+  width: 14mm;
+  height: 9mm;
   text-align: center;
   margin: 0;
-  font-size:24pt;
-  font-weight: 500;
+  font-weight: 900;
+  background-color: #dedede;
+  padding: 2mm;
+  font-size: 1.75em;
+}
+
+div.bloco {
+  position: absolute;
+  width: 95%;
+  border-top: 1px solid #666;
+  top: 15mm;
+  left: 2mm;
+  font-weight: 400;
 }
 
 .tabela-ano {
   font-weight: 500;
 }
 
-span {
-  display: inline-block;
-  width: auto;
-  float: right;
-  margin-right:0.5mm;
-  font-weight: 700;
-}
-
-div.bloco {
-  position: absolute;
-  top: 22mm;
-  width:80mm;
-  left: 3.5mm;
-  border-top: 1px solid #666;
-  padding-top: 1mm;
-}
-
-div.bloco p {
-  position:  relative;
-  font-size: 12pt;
-  font-weight: 400;
-}
-
-div.bloco strong {
-  font-size:13pt;
-}
-
-div.tipo span {
-  background-color: #dedede;
-  padding: 2mm;
-}
-
-/* POLITICOS */
 p.estado {
   position: absolute;
   top: 18mm;
   width:30mm;
   left: 3.5mm;
-  font-size: 13pt;
   font-weight: 700;
 }
 
@@ -116,26 +97,17 @@ p.etapa {
   top: 28mm;
   width:30mm;
   left: 3.5mm;
-  font-size: 13pt;
   font-weight: 700;
 }
 
 p.anos {
-  position: absolute;
-  top: 12mm;
-  width:25mm;
-  left: 3.5mm;
-  font-size: 13pt;
   font-weight: 700;
 }
 
 p.poder {
-  /*border-top: 1px dotted #aaa;*/
   position: absolute;
-  top: 13mm;
-  width:52mm;
-  left: 33.5mm;
-  font-size: 10.5pt;
+  top: 0;
+  left: 20.5mm;
   font-weight: 400;
 }
 
@@ -185,13 +157,12 @@ h2 {
   display: block;
   top: 2mm;
   right: 2.5mm;
-  border: 2px solid black;
+  border: 1px solid black;
   width: 18mm;
   height: 9mm;
   text-align: center;
   margin: 0;
   padding: 1mm;
-  font-size: 18pt;
   font-weight: 900;
 }
 
