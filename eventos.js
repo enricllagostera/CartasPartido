@@ -22,7 +22,7 @@ d3.tsv("EVENTOS.tsv", function (a) {
   var tipo_evento = cartas_eventos.append("div").html(function(d) {
     return "<span>" + d.data + "</span>";
   });
-  tipo_evento.classed("tipo evento", true);
+  tipo_evento.classed("tipo evento_historico", true);
   
   var bloco = cartas_eventos.append("div");
   bloco.classed("bloco", true);

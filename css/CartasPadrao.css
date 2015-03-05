@@ -64,6 +64,14 @@ div.tipo {
   font-size: 1.75em;
 }
 
+.stf {
+  background-color: darkcyan !important;
+}
+
+.evento_historico {
+  background-color: #98c48b !important;
+}
+
 div.bloco {
   position: absolute;
   width: 95%;
@@ -169,6 +177,28 @@ h2 {
   background-color: #dedede;
   padding: 2mm;
   font-size: 1.75em;
+}
+
+div.espacos {
+  position: absolute;
+  display: block;
+  width: 95%;
+  height: 15mm;
+  text-align: center;
+  margin-top: 3mm;
+  font-weight: 900;
+  padding: 2mm;
+}
+
+div.espacos span {
+  position: relative;
+  display: inline-block;
+  width: 15mm;
+  height: 15mm;
+  text-align: center;
+  margin: 2mm;
+  font-weight: 900;
+  background-color: #dedede;
 }
 
 /* para impressao */
