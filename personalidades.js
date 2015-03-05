@@ -44,8 +44,12 @@ d3.tsv("PERSONALIDADES.tsv", function (a) {
     d3.select(this).html("<i class='" + icone + "'></i>");
     d3.select(this).style("color", cor);
   }); 
+  
+  var bloco = cartas.append("div");
+  bloco.classed("bloco", true);
+  
   // anos
-  cartas.append("p")
+  bloco.append("p")
     .text(function(d) { 
       var msg = d.inicio;
       if (d.fim == "-") {
@@ -55,7 +59,7 @@ d3.tsv("PERSONALIDADES.tsv", function (a) {
     })
     .classed("anos", true);
   // poder
-  cartas.append("p")
+  bloco.append("p")
     .html(function(d) { return d.poder })
     .classed("poder", true);
   

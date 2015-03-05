@@ -1,29 +1,35 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:500,900,300,700,400);
 
 body {
+  -webkit-print-color-adjust:exact;
   font-family: 'Roboto', Arial;
 }
 
 .carta {
   position: relative;
   border: 2px black solid;
-  width: 85mm;
-  height:55mm;
+  width: 65mm;
+  height: 45mm;
   overflow: hidden;
-  font-size: 11pt;
+  font-size: 9pt;
   float: left;
-  padding-left: 2.5mm;
-  margin: 2mm;
+  padding-left: 1mm;
+  margin: 0.5mm;
   page-break-inside: avoid;
 }
 
 .carta h1 {
+  margin: 0;
   padding: 0;
+  position: absolute;
+  width: 60%;
+  height: 15mm;
+  top: 2mm;
+  text-align: left;
   padding-left:1mm;
   font-weight: 900;
-  font-size: 16pt;
+  font-size: 11pt;
   line-height: 16pt;
-  width: 58mm;
   vertical-align: bottom;
   display: block;
 }
@@ -31,12 +37,13 @@ body {
 .carta table {
   position: absolute;
   bottom: 2mm;
-  left: 2.5mm;
+  left: 1mm;
   text-align: center;
   border-top: 2px solid black;
-  width: 80mm;
+  width: 90%;
   margin: 0;
-  padding: 0
+  padding: 0;
+  font-size: 8pt;
 }
 
 .carta table td {
@@ -46,97 +53,75 @@ body {
 div.tipo {
   position: absolute;
   display: block;
-  top: 2mm;
-  right: 2.5mm;
-  width: 20mm;
-  height: 20mm;
+  right: 1mm;
+  width: 14mm;
+  height: 9mm;
   text-align: center;
   margin: 0;
-  font-size:24pt;
-  font-weight: 500;
+  font-weight: 900;
+  background-color: #dedede;
+  padding: 2mm;
+  font-size: 1.75em;
+}
+
+.stf {
+  background-color: darkcyan !important;
+}
+
+.evento_historico {
+  background-color: #98c48b !important;
+}
+
+div.bloco {
+  position: absolute;
+  width: 95%;
+  border-top: 1px solid #666;
+  top: 15mm;
+  left: 2mm;
+  font-weight: 400;
 }
 
 .tabela-ano {
   font-weight: 500;
 }
 
-span {
-  display: inline-block;
-  width: auto;
-  float: right;
-  margin-right:0.5mm;
+p.colEsquerda {
   font-weight: 700;
+  line-height: 12pt;
+  margin: 0;
 }
 
-div.bloco {
-  position: absolute;
-  top: 22mm;
-  width:80mm;
-  left: 3.5mm;
-  border-top: 1px solid #666;
-  padding-top: 1mm;
-}
-
-div.bloco p {
-  position:  relative;
-  font-size: 12pt;
-  font-weight: 400;
-}
-
-div.bloco strong {
-  font-size:13pt;
-}
-
-div.tipo span {
-  background-color: #dedede;
-  padding: 2mm;
-}
-
-/* POLITICOS */
 p.estado {
-  position: absolute;
-  top: 18mm;
-  width:30mm;
-  left: 3.5mm;
-  font-size: 13pt;
   font-weight: 700;
+  line-height: 12pt;
+  margin: 0;
 }
 
 p.verba {
-  position: absolute;
-  top: 23mm;
-  width:30mm;
-  left: 3.5mm;
-  font-size: 13pt;
   font-weight: 700;
+  line-height: 12pt;
+  margin: 0;
 }
 
 p.etapa {
-  position: absolute;
-  top: 28mm;
-  width:30mm;
-  left: 3.5mm;
-  font-size: 13pt;
   font-weight: 700;
+  line-height: 12pt;
+  margin: 0;
 }
 
 p.anos {
-  position: absolute;
-  top: 12mm;
-  width:25mm;
-  left: 3.5mm;
-  font-size: 13pt;
   font-weight: 700;
+  line-height: 12pt;
+  margin: 0;
 }
 
 p.poder {
-  /*border-top: 1px dotted #aaa;*/
   position: absolute;
-  top: 13mm;
-  width:52mm;
-  left: 33.5mm;
-  font-size: 10.5pt;
+  top: 0;
+  left: 20.5mm;
   font-weight: 400;
+  line-height: 12pt;
+  margin: 0;
 }
 
 tr.votos_ano td {
@@ -158,8 +143,8 @@ tr.votos_ano td {
 
 .PT {
   border-color: #fc0044;
-  background-color: #fc0044;
-  color: #fff;
+  background-color: #eee;
+  color: #fc0044;
 }
 
 .PSDB {
@@ -177,22 +162,43 @@ tr.votos_ano td {
 .PIE {
   border-color:#f00;
   background-color: #f00;
-  color: #ffc608;
+  color: #000;
 }
 
 h2 {
   position: absolute;
   display: block;
-  top: 2mm;
-  right: 2.5mm;
-  border: 2px solid black;
-  width: 18mm;
+  right: 1mm;
+  width: 15mm;
   height: 9mm;
   text-align: center;
   margin: 0;
-  padding: 1mm;
-  font-size: 18pt;
   font-weight: 900;
+  background-color: #dedede;
+  padding: 2mm;
+  font-size: 1.75em;
+}
+
+div.espacos {
+  position: absolute;
+  display: block;
+  width: 95%;
+  height: 15mm;
+  text-align: center;
+  margin-top: 3mm;
+  font-weight: 900;
+  padding: 2mm;
+}
+
+div.espacos span {
+  position: relative;
+  display: inline-block;
+  width: 15mm;
+  height: 15mm;
+  text-align: center;
+  margin: 2mm;
+  font-weight: 900;
+  background-color: #dedede;
 }
 
 /* para impressao */
