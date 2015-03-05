@@ -26,21 +26,25 @@ d3.tsv("POLITICOS.tsv", function (a) {
     return d.partido; });
   partido.each(function(d){
     d3.select(this).classed(d.partido, true);
-  }); 
+  });
+  
+  var bloco = cartas.append("div");
+  bloco.classed("bloco", true);
+  
   // estado
-  cartas.append("p")
+  bloco.append("p")
     .text(function(d) { return d.estado; })
-    .classed("estado", true);
+    .classed("colEsquerda", true);
   // verba
-  cartas.append("p")
+  bloco.append("p")
     .text(function(d) { return "$ " + d.verba; })
-    .classed("verba", true);
+    .classed("colEsquerda", true);
   // etapa
-  cartas.append("p")
+  bloco.append("p")
     .text(function(d) { return "E: " + d.momento_poder; })
-    .classed("etapa", true);
+    .classed("colEsquerda", true);
   // anos
-  cartas.append("p")
+  bloco.append("p")
     .text(function(d) { 
       var msg = d.inicio;
       if (d.fim == "-") {
@@ -48,9 +52,9 @@ d3.tsv("POLITICOS.tsv", function (a) {
       }
       return msg + "-" + d.fim;
     })
-    .classed("anos", true);
+    .classed("colEsquerda", true);
   // poder
-  cartas.append("p")
+  bloco.append("p")
     .html(function(d) { return d.poder})
     .classed("poder", true);
   // voto
