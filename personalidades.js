@@ -24,25 +24,27 @@ d3.tsv("PERSONALIDADES.tsv", function (a) {
   tipo.each( function(d){
     var icone;
     var cor = "";
+    
     switch(d.tipo) {
-        case "INTEL" : icone = "fa fa-book"; cor = "black"; break;
-        case "CONTRA" : icone = "fa fa-wrench"; cor = "red"; break;
-        case "BOLA" : icone = "fa fa-futbol-o"; cor = "purple"; break;
-        case "MIDIA" : icone = "fa fa-film"; cor = "blue"; break;
-        case "JUST" : icone = "fa fa-legal"; cor = "#900"; break;
-        case "AGRO" : icone = "fa fa-leaf"; cor = "#090"; break;
-        case "ARTE" : icone = "fa fa-paint-brush"; cor = "orange"; break;
-        case "ECON" : icone = "fa fa-money"; cor = "#090"; break;
-        case "MKT" : icone = "fa fa-comments-o"; cor = "#990"; break;
-        case "BANC" : icone = "fa fa-credit-card"; cor = "#909"; break;
-        case "PLB" : icone = "fa fa-glass"; cor = "blue"; break;
-        case "VRJ" : icone = "fa fa-line-chart"; cor = "red"; break;
-        case "INDU" : icone = "fa fa-gears"; cor = "grey"; break;
-        case "RLG" : icone = "fa fa-plus"; cor = "#090"; break;
+        case "INTEL" : icone = "fa fa-pencil"; cor = "#663366"; break;
+        case "CONTRA" : icone = "fa fa-users"; cor = "#ff0000"; break;
+        case "BOLA" : icone = "fa fa-futbol-o"; cor = "#33c6f4"; break;
+        case "MIDIA" : icone = "fa fa-microphone"; cor = "#009999"; break;
+        case "JUST" : icone = "fa fa-university"; cor = "#cc0000"; break;
+        case "AGRO" : icone = "fa fa-pagelines"; cor = "#66cc00"; break;
+        case "ARTE" : icone = "fa fa-paint-brush"; cor = "#ff66ff"; break;
+        case "ECON" : icone = "fa fa-database"; cor = "#009900"; break;
+        case "MKT" : icone = "fa fa-smile-o"; cor = "#ff9900"; break;
+        case "BANC" : icone = "fa fa-thumb-tack"; cor = "#b2b2b2"; break;
+        case "PLB" : icone = "fa fa-glass"; cor = "#ffcc00"; break;
+        case "VRJ" : icone = "fa fa-shopping-cart"; cor = "#cc99ff"; break;
+        case "INDU" : icone = "fa fa-building-o"; cor = "#663300"; break;
+        case "RLG" : icone = "fa fa-bell"; cor = "#000"; break;
     }
     console.log(d.tipo + " | " + icone);
     d3.select(this).html("<i class='" + icone + "'></i>");
-    d3.select(this).style("color", cor);
+    d3.select(this).style("background-color", cor);
+    d3.select(this).style("color", "#fff");
   }); 
   
   var bloco = cartas.append("div");
@@ -64,3 +66,4 @@ d3.tsv("PERSONALIDADES.tsv", function (a) {
     .classed("poder", true);
   
 }); // fim criar cartas
+
