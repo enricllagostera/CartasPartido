@@ -1,14 +1,14 @@
 nome	inicio	fim	tipo	poder	setup	pie	pt	psdb	pmdb	dem	ped
 Ricardo Young	2000	-	P_EDU	 +1<I_DIN> caso você controle diretamente o <M_EDC>.						-4	-4
-Eduardo Viveiros de Castro	1990	-	P_EDU	 +2 <I_FRC> caso você controle diretamente o <M_DES> e não tenha nenhuma <P_IND> e nenhuma <P_AGR>	PPE	4		-4	-4	-4	-4
+Eduardo Viveiros de Castro	1990	-	P_EDU	 +2 <I_FRC> caso você controle diretamente o <M_DSV> e não tenha nenhuma <P_IND> e nenhuma <P_AGR>	PPE	4		-4	-4	-4	-4
 João Carlos Di Gênio	1990	-	P_EDU	 +1<I_FRC>  e +2<I_DIN> caso você controle diretamente o <M_EDC>.	DEM	-2					
 Tião Rocha	1990	-	P_EDU	 +1 <I_LGD> caso você controle diretamente o <M_EDC>.	PT	2	2			-4	-4
 Marilena Chauí	1990	-	P_EDU	 +1 <I_FRC> caso você controle diretamente o <M_EDC>.	PT		4				
 Protógenes Queiroz	2003	-	P_SUB	Operação PF: pode rerrolar o 1d6 de qualquer Juíz AI por -1 <I_FRC> - máximo de duas vezes por operação.							
 Guilherme Boulos	2013	-	P_SUB	 +2 <I_FRC> caso seu partido seja oposição e mais fraco que o partido do <C_PRS>		6				-4	-4
 João Pedro Stédile	1990	-	P_SUB	Pode rerrolar o seu 1d6 caso sofra um <A_APA> de um partido mais forte - uma vez por rodada.	PT	2	4			-4	-4
-José Cláudio	1990	2007	P_SUB	 +1 <I_LGD> caso você controle diretamente o <M_DES> e não tenha nenhuma <P_AGR>	PPE	2					
-Cacique Raoni	1990	-	P_SUB	 +1 <I_LGD> caso você controle diretamente o <M_DES> e não tenha nenhuma <P_IND>	PPE	2	2				
+José Cláudio	1990	2007	P_SUB	 +1 <I_LGD> caso você controle diretamente o <M_DSV> e não tenha nenhuma <P_AGR>	PPE	2					
+Cacique Raoni	1990	-	P_SUB	 +1 <I_LGD> caso você controle diretamente o <M_DSV> e não tenha nenhuma <P_IND>	PPE	2	2				
 Mano Brown	1997	-	P_ART	 +1 <I_LGD> ao sofrer um <A_APA> ou <A_APE> bem sucedido de um partido mais forte que o seu.		2	2			-4	-4
 Walter Salles	1998	-	P_ART	 +1 <I_LGD> para cada <P_MAG>  que você controla.		4				-4	-4
 Pablo Capilé	2006	-	P_ART	 +1 <I_FJN> caso você controle diretamente o <M_COM>.		2	4				
@@ -24,15 +24,15 @@ Franklin Martins	1998	-	P_COM	 -1 <I_FRC>  para cada <P_COM> de outro partido ca
 Roberto Civita	1990	2013	P_COM	 +2<I_DIN>  caso você controle diretamente o <M_COM>.	PSDB	-6	-6	2	2	2	2
 Roberto Marinho	1990	2001	P_COM	 +2 <I_FRC>  e +2 <I_LGD> caso você controle diretamente o <M_COM>.	PMDB	-4	-2				
 Silvio Santos	1990	-	P_COM	 +2<I_DIN>  e +2 <I_LGD> caso você controle diretamente o <M_COM>.	PPD	-4	-2				
-Luiz Fernando Furlan	1993	-	P_AGR	 +1 <I_FRC>  e +1 <I_LGD> caso você controle diretamente o <M_DES>.		-2	-2	2			
+Luiz Fernando Furlan	1993	-	P_AGR	 +1 <I_FRC>  e +1 <I_LGD> caso você controle diretamente o <M_DSV>.		-2	-2	2			
 Jorge Paulo Lehman	1999	-	P_AGR	 +2 <I_FRC>  e +1<I_DIN> caso você controle diretamente a <C_PRS>.		-2	2				
 André Dias	2005	-	P_AGR	 +3 <I_FRC> caso a vertente do seu partido seja <V_AGR>							
 Guilherme Peirão Leal	2006	-	P_AGR	 +3 <I_FRC>  caso a <i>Marina Silva</i> seja do seu partido e possua algum cargo.							
 Joesley Mendonça Batista	2000	-	P_AGR	 +1 <I_FRC>  e +2<I_DIN> caso você controle diretamente a <C_PRS>.		-2	2				
-Sérgio Andrade	2000	-	P_IND	 +3<I_DIN> caso você controle diretamente o <M_DES>.		-4					
-Marcelo Odebrecht	2008	-	P_IND	 +3 <I_FRC>  caso você controle diretamente o <M_DES>.		-4					
-Jorge Gerdau	1990	-	P_IND	 +2 <I_FRC>  e +1<I_DIN> caso você controle diretamente o <M_DES>.	PMDB	-4					
-Antônio Ermínio de Moraes	1990	2014	P_IND	 +1 <I_FRC>  e +2<I_DIN> caso você controle diretamente o <M_DES>.	PPD						4
+Sérgio Andrade	2000	-	P_IND	 +3<I_DIN> caso você controle diretamente o <M_DSV>.		-4					
+Marcelo Odebrecht	2008	-	P_IND	 +3 <I_FRC>  caso você controle diretamente o <M_DSV>.		-4					
+Jorge Gerdau	1990	-	P_IND	 +2 <I_FRC>  e +1<I_DIN> caso você controle diretamente o <M_DSV>.	PMDB	-4					
+Antônio Ermínio de Moraes	1990	2014	P_IND	 +1 <I_FRC>  e +2<I_DIN> caso você controle diretamente o <M_DSV>.	PPD						4
 César Mata Pires	1990	-	P_IND	 +1 <I_FRC>  e +2<I_DIN> caso você controle diretamente o <C_GOV>-<R_BA>	DEM					4	
 Carlos Jereissaiti	1998	-	P_VAR	 +3<I_DIN> caso <i>Tasso Jereissati</i> ocupe um cargo de <C_EXE> ou <C_LEG>		-2		6			
 Samuel Klein	1990	-	P_VAR	 +3 <I_FRC>  caso você controle diretamente o <M_TRB>.	PPD	-2					
@@ -52,7 +52,7 @@ Benjamin Steinbruch	1990	-	P_MAG	 +3<I_DIN>  caso você controle diretamente o <
 Duda Mendonça	1994	-	P_PUB	Eleição: jogue 1d6 para 3 candidatos quaisquer, insira o valor do dado em número de votos para cada um.							
 Marcos Valério	1996	-	P_PUB	 +2<I_DIN> pra cada ação de Lobby que realizar com sucesso.			2	2			
 Fernando Meirelles	2002	-	P_PUB	 +1 <I_LGD> para cada <P_ART>  que você controla.							
-João Santana	2003	-	P_PUB	<F_CNV>: pode retirar 1 <I_STR> de qualquer político			4				
+João Santana	2003	-	P_PUB	<F_CNV>: pode retirar 1 <T_STR> de qualquer político			4				
 Nizan Guanaes	1997	-	P_PUB	<F_CNV>: pode fazer até 5 Planos de Marketing							
 Pedro Malan	1995	-	P_TEC	 +1 <I_FRC>  e +2<I_DIN> caso você controle diretamente o <M_FAZ>.				4			
 Daniel Dantas	1990	-	P_TEC	Joga 2d6 (e escolhe o dado com maior valor) quando realizar a <I_FDP>. Imune ao Plano Collor	PSDB	-4	-4				

@@ -25,13 +25,13 @@ d3.tsv("OPERACOES PF.tsv", function (a) {
   bloco.classed("bloco", true);
   
   bloco.append("p").html(function(d) { 
-      var res = "<strong>Indiciado 1:</strong> " + d.Indiciado_1;
+      var res = "<strong>Indiciado 1:</strong> " + legenda.converter(d.Indiciado_1);
       if(d.indiciado_2 == "")
           return res;
-      res += "<br/><strong>Indiciado 2:</strong> " + d.indiciado_2;
+      res += "<br/><strong>Indiciado 2:</strong> " + legenda.converter(d.indiciado_2);
       if(d.indiciado_3 == "")
         return res;
-      return res + "<br/><strong>Indiciado 3:</strong> " + d.indiciado_3;
+      return res + "<br/><strong>Indiciado 3:</strong> " + legenda.converter(d.indiciado_3);
   });
   
   /*

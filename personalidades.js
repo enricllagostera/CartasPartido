@@ -63,7 +63,7 @@ d3.tsv("PERSONALIDADES.tsv", function (a) {
     .classed("anos", true);
   // poder
   bloco.append("p")
-    .html(function(d) { return d.poder })
+    .html(function(d) { return legenda.converter(d.poder) })
     .classed("poder", true);
   
 }); // fim criar cartas
