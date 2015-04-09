@@ -15,14 +15,14 @@ id	nome_longo	resumido
 <CPI>	CPI	<b>CPI</b>
 <DEM>	DEM	<i style="color: #1323e6; background-color:#23ed71; font-weight:bold; font-style:normal">DEM</i>
 <F_CNV>	Convenção partidária	<b>Convenção Partidária</b>
-<F_DIV>	Dividendos	
-<F_EHT>	Evento histórico	
-<F_ELE>	Eleições	
-<F_EXE>	Executivo	
-<F_INF>	Influência	
-<F_JUD>	Judiciário	
-<F_MIN>	Ministério presidencial	
-<F_ROR>	Reorganização de cargos	
+<F_DIV>	Dividendos	<b>Fase Dividendos</b>
+<F_EHT>	Evento histórico	<b>Fase Eventos</b>
+<F_ELE>	Eleições	<b>Fase Eventos</b>
+<F_EXE>	Executivo	<b>Fase Executivo</b>
+<F_INF>	Influência	<b>Fase Influência</b>
+<F_JUD>	Judiciário	<b>Fase Judiciário</b>
+<F_MIN>	Ministério presidencial	<b>Fase Ministerial</b>
+<F_ROR>	Reorganização de cargos	<b>Fase Reorganização de Cargos</b>
 <I_CDM>	Concessões de mídia	<i class="fa fa-bullhorn" style="color: #11b5bc"></i>
 <I_DIN>	Dinheiro	<i style="color: #2ca01c; font-weight:bold; font-style:normal">$</i>
 <I_FDP>	Fundo de pensão	<i class="fa fa-database" style="color: #8eb550"></i>
@@ -41,7 +41,7 @@ id	nome_longo	resumido
 <M_SAU>	Ministério da Saúde	<b>Min. da Saúde</b>
 <M_TRB>	Ministério do Trabalho	<b>Min. do Trabalho</b>
 <OPF>	Operação da PF	<b> Operação da PF<b>
-<P_AGR>	Agronegócio	<i class="fa fa-pagelines" style="color: #66cc00"></i>
+<P_AGR>	Agricultura	<i class="fa fa-pagelines" style="color: #66cc00"></i>
 <P_ART>	Artes	<i class="fa fa-paint-brush" style="color: #ff66ff"></i>
 <P_COM>	Comunicação	<i class="fa fa-microphone" style="color: #009999"></i>
 <P_DIR>	Direito	<i class="fa fa-university" style="color: #cc0000"></i>
