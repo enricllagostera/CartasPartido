@@ -72,7 +72,7 @@ id	nome_longo	resumido
 <R_RS>	Rio Grande do Sul	<b>RS</b>
 <R_SC>	Santa Catarina	<b>SC</b>
 <R_SP>	São Paulo	<b>SP</b>
-<T_INV>	Investigação	<i class="fa fa-user-secret" style="color: #b404c3"></i>
+<T_INV>	Investigação	<i class="fa fa-search" style="color: #bb00cc"></i>
 <T_STR>	Stress	<i class="fa fa-comments" style="color: #ff5669"></i>
 <V_AGR>	Agronegócio	<b>Agronegócio</b>
 <V_BBM>	Bandido Bom é Bandido Morto	<b>Bandido Bom é Bandido Morto</b>
