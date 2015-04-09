@@ -1,65 +1,65 @@
 cpi	indiciado1	indiciado2	indiciado3
-Arrecadação da Borracha - IBAMA	i que esteja num partido com vertente Agronegócio		
-Atuação da FUNAI	i que esteja num partido com vertente Defesa de Minorias		
-BANESPA	Governador de SP	Orestes Quércia (pol.)	Luís Antônio Fleury Filho (pol.)
-CBF/NIKE	Ricardo Teixeira (pers.)		
-FINOR	Governador de NRL	Fernando Bezerra (pol.)	Jader Barbalho (pol.)
-Fraudes do INSS	i que esteja no partido com mais Fundos de Pensão		
-FUNDEF	Ministro da Educação		
-Medicamentos	i que esteja num dos partidos com mais g		
-Mortalidade Materna	i que esteja num partido que não tenha nenhuma mulher com cargo.		
-Narcotráfico	i que esteja no DEM	i que esteja no PED	Ministro da Defesa
-Obras Inacabadas	i que esteja num dos partidos com mais F		
-Ocupação de Terras Públicas na Amazônia	Governador do N		
-PROER	Pedro Malan(pers.)	Armínio Fraga(pers.)	
-Recursos da CPMF	Ministro da Fazenda		
-SIVAM	`Ministro das Relações Exteriores		
-Tortura e Maus-Tratos	i que esteja num partido com vertente Coronelismo		
-Tráfico de Animais e Plantas Silvestres	i que esteja num partido com vertente Desenvolvimentismo		
-Biopirataria	i que esteja em algum político do N		
-Combustíveis	i que esteja num dos partidos com mais G		
-Evasão de Divisas	i que esteja num dos partidos com mais o	Sérgio Mota (pol.)	
-Extermínio no Nordeste	i que esteja num partido com vertente Bandido Bom é Bandido Morto		
-Pirataria de Produtos Industrializados	i que esteja num dos partidos com mais @		
-Planos de Saúde	Ministro da Saúde		
-Privatização Setor Elétrico	Ministro da Fazenda		
-SERASA	i que esteja num dos partidos com mais i		
-Tráfico de Armas	i que esteja num partido com vertente Cidadão de Bem		
-Tráfico de Órgãos Humanos	Ministro da Saúde		
-Crise do Sistema de Tráfico Aéreo	Ministro do Desenvolvimento		
-Desaparecimento de Crianças e Adolecentes	i que esteja num partido com vertente Bandido Bom é Bandido Morto		
-Dívida Pública	i que esteja no partido com mais Fundos de Pensão		
-Sistema Carcerário	Ministro da Justiça		
-Escutas Telefônicas Clandestinas	i que esteja no partido com mais mídia		
-Subnutrição de Crianças Indígenas	i que esteja num dos partido que não tenha @		
-Tarifas de Energia Elétrica	i que esteja num dos partidos com mais F		
-Violência Urbana	i que esteja em qualquer Governador		
-Trabalho Infanti	Ministro do Trabalho		
-Trabalho Escravo	Ministro do Trabalho		
-Exp. Sexual de Crianças e Adolescentes	i que esteja num dos partido que não tenha @		
-Tráfico de Pessoas no Brasil	Ministro da Defesa		
-Fraude no Enem	Ministro da Educação		
+Arrecadação da Borracha	<T_INV> que esteja num partido com vertente <V_AGR>		
+Atuação da FUNAI	<T_INV> que esteja num partido com vertente <V_DFM>		
+BANESPA	<C_GOV> - <R_SP>	Orestes Quércia (pol.)	Luís Antônio Fleury Filho (pol.)
+CBF/NIKE	Ricardo Teixeira <P_ESP>		
+FINOR	<C_GOV> - <R_NRL>	Fernando Bezerra (pol.)	Jader Barbalho (pol.)
+Fraudes do INSS	<T_INV> que esteja no partido com mais <I_FDP>		
+FUNDEF	<M_EDC>		
+Medicamentos	<T_INV> que esteja num dos partidos com mais <P_VAR>		
+Mortalidade Materna	<T_INV> que esteja num partido que não tenha nenhuma mulher com cargo.		
+Narcotráfico	<T_INV> que esteja no <DEM>	<T_INV> que esteja no <PPD>	<M_DEF>
+Obras Inacabadas	<T_INV> que esteja num dos partidos com mais <P_IND>		
+Terras Públicas na Amazônia	<C_GOV>-<R_N>		
+PROER	Pedro Malan <P_TEC>	Armínio Fraga <P_FIN>	
+Recursos da CPMF	<M_FAZ>		
+SIVAM	<M_EXT>		
+Tortura e Maus-Tratos	<T_INV> que esteja num partido com vertente <V_VRL>		
+Tráfico de Animais e Plantas 	<T_INV> que esteja num partido com vertente <V_DSV>		
+Biopirataria	<T_INV> que esteja em algum político do Norte		
+Combustíveis	<T_INV> que esteja num dos partidos com mais <P_DIR>		
+Evasão de Divisas	<T_INV> que esteja num dos partidos com mais <P_FIN>	Sérgio Mota (pol.)	
+Extermínio no Nordeste	<T_INV> que esteja num partido com vertente <V_BBM>		
+Pirataria 	<T_INV> que esteja num dos partidos com mais <P_SUB>		
+Planos de Saúde	<M_SAU>		
+Privatização Setor Elétrico	<M_FAZ>		
+SERASA	<T_INV> que esteja num dos partidos com mais <T_INV>		
+Tráfico de Armas	<T_INV> que esteja num partido com vertente <V_CDB>		
+Tráfico de Órgãos Humanos	<M_SAU>		
+Sistema de Tráfico Aéreo	<M_DSV>		
+Desaparecimento de Crianças 	<T_INV> que esteja num partido com vertente <V_CDB>		
+Dívida Pública	<T_INV> que esteja no partido com mais <I_FDP>		
+Sistema Carcerário	<M_JST>		
+Escutas Telefônicas Clandestinas	<T_INV> que esteja no partido com mais <I_CDM>		
+Subnutrição de Crianças Indígenas	<T_INV> que esteja num dos partido que não tenha <P_SUB>		
+Tarifas de Energia Elétrica	<T_INV> que esteja num dos partidos com mais <P_IND>		
+Violência Urbana	<T_INV> que esteja em qualquer <C_GOV>		
+Trabalho Infanti	<M_TRB>		
+Trabalho Escravo	<M_TRB>		
+Exploraçao Sexual de Crianças 	<T_INV> que esteja num dos partido que não tenha <P_SUB>		
+Tráfico de Pessoas no Brasil	<M_DEF>		
+Fraude no Enem	<M_EDC>		
 Corrupção	José Sarney(pol.)		
 Caso Collor	Fernando Collor de Mello(pol.)	Luiz Estevão(pol.)	Roberto Jefferson(pol.)
-Pau-Brasil	Paulo Maluf(pol.)	i que esteja num dos partidos com mais H	
-Anões do Orçamento	João Alves Filho (pol.)	Deputado	
-Pasta Rosa	i que esteja num dos partidos com mais o		
+Pau-Brasil	Paulo Maluf(pol.)	<T_INV> que esteja num dos partidos com mais <P_MAG>	
+Anões do Orçamento	João Alves Filho (pol.)	<C_DEP>	
+Pasta Rosa	<T_INV> que esteja num dos partidos com mais <P_FIN>		
 Precatórios	Paulo Maluf(pol.)	Celso Pitta(pol.)	Eduardo Campos(pol.)
 Frangogate	Paulo Maluf(pol.)		
-Privatizações	Fernando Henrique Cardoso (pol.)	Benjamin Steinbruch (pers.)	Tasso Jereissatti (pol.)
-Compra de Votos Reeleição	i que esteja no partido do Presidente da República	Amazonino Mendes (pol.)	
-Máfia dos Fiscais	Governador de SP	Celso Pitta(pol.)	
+Privatizações	Fernando Henrique Cardoso (pol.)	BenjaMin Steinbruch (pers.)	Tasso Jereissatti (pol.)
+Compra de Votos Reeleição	<T_INV> que esteja no partido do <C_PRS>	Amazonino Mendes (pol.)	
+Máfia dos Fiscais	<C_GOV> de <R_SP>	Celso Pitta(pol.)	
 Verbas do TRT	Nicolau dos Santos Neto (pers.)	Luiz Estevão(pol.)	
 Turma do Chuvisco	Anthony Garotinho(pol.)	Eduardo Cunha(pol.)	
-Painel do Senado	Senador	Antônio Carlos Magalhães (pol.)	José Arruda (pol.)
-Banestado	i que esteja num dos partidos com mais o	Celso Pitta(pol.)	Alberto Youssef (pers.)
+Painel do Senado	<C_SEN>	Antônio Carlos Magalhães (pol.)	José Arruda (pol.)
+Banestado	<T_INV> que esteja num dos partidos com mais <P_FIN>	Celso Pitta(pol.)	Alberto Youssef <P_TEC>
 Bingos	Anthony Garotinho(pol.)	José Dirceu(pol.)	Ministro da Casa Civil
 Banpará	Jader Barbalho (pol.)		
-Correios	i que esteja num dos partidos com mais Ministérios		
-Mensalão Petista	José Dirceu(pol.)	José Genoíno(pol.)	Duda Mendonça (pers.)
-Mensalão Tucano	Governador de MG	Eduardo Azeredo (pol.)	Marcos Valério (pers.)
+Correios	<T_INV> que esteja num dos partidos com mais Ministérios		
+Mensalão Petista	José Dirceu(pol.)	José Genoíno(pol.)	Duda Mendonça <P_PUB>
+Mensalão Tucano	<C_GOV> - <R_MG>	Eduardo Azeredo (pol.)	Marcos Valério <P_PUB>
 Sanguessugas	Antero Paes de Barros (pol.)	Carlos Bezerra (pol.)	Humberto Costa (pol.)
-Atos Secretos	José Sarney(pol.)	Tião Viana(pol.)	Senador
-Mensalão do DEM	Joaquim Roriz (pol.)	José Arruda (pol.)	Paulo Otávio (pol.)
-Tucanoduto	José Serra (pol.)	Geraldo Alckmin (pol.)	Governador de SP
-Calote da Rede Globo	Roberto Marinho (pers.)	Ali Kamel (pers.)	i que esteja no partido com mais mídia
+Atos Secretos	José Sarney(pol.)	Tião Viana(pol.)	<C_SEN>
+Mensalão do <DEM>	Joaquim Roriz (pol.)	José Arruda (pol.)	Paulo Otávio (pol.)
+Tucanoduto	José Serra (pol.)	Geraldo AlckMin (pol.)	<C_GOV> de <R_SP>
+Calote da Rede Globo	Roberto Marinho (pers.)	Ali Kamel (pers.)	<T_INV> que esteja no partido com mais <I_CDM>

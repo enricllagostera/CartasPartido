@@ -1,101 +1,101 @@
 evento	data	efeito	perm
-Estatuto da Criança e do Adolescente	1990	Partido Mais Fraco: +1 Frç sempre que sofrer um APT ou APS bem sucedido.	X
-Morte de Luís Carlos Prestes	1990	PIE: +3 Lgd	
-Plano Collor	1990	Próximas duas CNV: pode ser usado no máximo 10$ por partido.	
-Sistema de Telefonia Celular	1990	M. DSV: +2 Lgd	
-Mercosul	1991	M. EXT: +2 Frç e +2 Lgd	
-Lei dos Royalties	1991	M. DSV: +2 Frç	
-Plano Collor II	1991	M. FAZ: Demitido	
-Privatização da Usiminas	1991	Mário Henrique Simonsen: +4$	
+Estatuto da Criança e do Adolescente	1990	Jogadores com <18 anos: +1 <I_FRC> sempre que sofrer um <A_APA> ou <A_APE> bem sucedido.	X
+Morte de Luís Carlos Prestes	1990	<PPE>: +3 <I_LGD>	
+Plano Collor	1990	Próximas duas <F_CNV>: pode ser usado no máximo 10<I_DIN> por partido.	
+Sistema de Telefonia Celular	1990	<M_DSV>: +2 <I_LGD>	
+Mercosul	1991	<M_EXT>: +2 <I_FRC> e +2 <I_LGD>	
+Lei dos Royalties	1991	<M_DSV>: +2 <I_FRC>	
+Plano Collor II	1991	<M_FAZ>: Demitido	
+Privatização da Usiminas	1991	Mário Henrique Simonsen: +4<I_DIN>	
 ECO 92	1992	Nada Acontece	
-Massacre no Carandiru	1992	PIE: -2 Frç e +2 Lgd	
-Plano Marcilio	1992	M. FAZ: Demitido	
-Privatização da VASP	1992	Orestes Quércia: +4$ e i	
-Advocacia Geral da União	1993	M. JST: +2 Frç e +2 Lgd	
-Plebicito do Novo Sistema de Governo	1993	Nada Acontece	
-Privatização da CSN	1993	Benjamin Steinbruch +4$	
-Projeto Rio-Cidade	1993	César Maia: +4$ e i	
-É Tetra!	1994	Partido com mais Mídia: +2 Lgd	
-Estatuto da OAB	1994	M. JST: +2 Frç e +2 Lgd	
-Plano Real	1994	M. FAZ: +3 Lgd; +3 Frç e +5 votos na próxima eleição.	
-Caso Lilian Ramos	1994	PRS: -2 Frç	
-Agências Reguladoras	1995	-1 no D6 para qualquer tentativa de CRR em cargos Ministeriais	X
-PRODETUR	1995	GOV-BA e GOV-PE: +2$	
-Engavetador Geral da República	1995	-1 no D6 para qualquer votação automática de CPI até o fim deste mandato.	
-PROER	1995	M. FAZ: +3 Frç	
-Assassinato de PC Farias	1996	Retira todos os marcoderes de investigação de todos os políticos.	
-Lei de Diretrizes e Bases da Educação	1996	M. EDC: +2 Lgd	
-Massacre de Eldorado de Carajás	1996	João Pedro Stédile: -2 Frç e +2 Leg	
-Programa Brasil em Ação	1996	M. DSV: +2 Frç e +2$	
-Caso Favela Naval	1997	PED e DEM: -3 Frç	
-CPMF	1997	Insira todo início de rodada 2$ no Fundo de Pensões.	X
-Lei do Petróleo	1997	M. DSV: +2 Frç	
-Privatização da Vale do Rio Doce	1997	Benjamin Steinbruch +4$	
-Dossie Cayman	1998	Pode-se fazer até 3 dossiês na próxima CNV	
+Massacre no Carandiru	1992	<PPE>: -2 <I_FRC> e +2 <I_LGD>	
+Plano Marcilio	1992	<M_FAZ>: Demitido	
+Privatização da VASP	1992	Orestes Quércia: +4<I_DIN> e <T_INV>	
+Advocacia Geral da União	1993	<M_JST>: +2 <I_FRC> e +2 <I_LGD>	
+Plebiscito do Novo Sistema de Governo	1993	Nada Acontece	
+Privatização da CSN	1993	Benjamin Steinbruch +4<I_DIN>	
+Projeto Rio-Cidade	1993	César Maia: +4<I_DIN> e <T_INV>	
+É Tetra!	1994	Partido com mais <I_CDM>: +2 <I_LGD>	
+Estatuto da OAB	1994	<M_JST>: +2 <I_FRC> e +2 <I_LGD>	
+Plano Real	1994	<M_FAZ>: +3 <I_LGD>; +3 <I_FRC> e +5 votos na próxima eleição.	
+Caso Lilian Ramos	1994	<C_PRS>: -2 <I_FRC>	
+Agências Reguladoras	1995	-1 no 1d6 para qualquer tentativa de CRR em cargos Ministeriais	X
+PRODETUR	1995	<C_GOV>-<R_BA> e <C_GOV>-<R_PE>: +2<I_DIN>	
+Engavetador Geral da República	1995	-1 no 1d6 para qualquer votação automática de <CPI> até o fim deste mandato.	
+PROER	1995	<M_FAZ>: +3 <I_FRC>	
+Assassinato de PC Farias	1996	Retira todos <T_INV> de todos os políticos.	
+Lei de Diretrizes e Bases da Educação	1996	<M_EDC>: +2 <I_LGD>	
+Massacre de Eldorado de Carajás	1996	João Pedro Stédile: -2 <I_FRC> e +2 <I_LGD>	
+Programa Brasil em Ação	1996	<M_DSV>: +2 <I_FRC> e +2<I_DIN>	
+Caso Favela Naval	1997	<PPD> e <DEM>: -3 <I_FRC>	
+CPMF	1997	Insira todo início de rodada 2<I_DIN> na Previdência Social	X
+Lei do Petróleo	1997	<M_DSV>: +2 <I_FRC>	
+Privatização da Vale do Rio Doce	1997	Benjamin Steinbruch +4<I_DIN>	
+Dossie Cayman	1998	Pode-se fazer até 3 dossiês na próxima <F_CNV>	
 Implosão do Palace II	1998	Sérgio Naya: Cassado	
-Privatização da Telebras e Embratel	1998	Daniel Dantas: +4$ / Tasso Jereissati: +8$	
-Reeleição	1998	Permite a reeleição de cargos do EXE	X
-Adoção do Câmbio Flutuante	1999	M. FAZ: +2 Frç e +2 Lgd	
-Cooperação da Base de Alcântara	1999	M. DEF: +3$	
-Desvalorização do Real	1999	M. DSV: +3$	
-Marcha dos 100 Mil em Brasília	1999	PIE e PT: +3 Frç	
-Lei Responsabilidade Fiscal	2000	Para cada 5$ que um partido ganhar no DIV, ele tem que colocar 1$ no Fundo de Pensões	X
+Privatização da Telebras e Embratel	1998	Daniel Dantas: +4<I_DIN> / Tasso Jereissati: +8<I_DIN>	
+Reeleição	1998	Permite a reeleição de cargos do <EXE>	X
+Adoção do Câmbio Flutuante	1999	<M_FAZ>: +2 <I_FRC> e +2 <I_LGD>	
+Coop. Internacional - Base de Alcântara	1999	<M_DEF>: +3<I_DIN>	
+Desvalorização do Real	1999	<M_DSV>: +3<I_DIN>	
+Marcha dos 100 Mil em Brasília	1999	<PPE> e PT: +3 <I_FRC>	
+Lei Responsabilidade Fiscal	2000	Para cada 5<I_DIN> que um partido ganhar no <F_DIV>, ele tem que colocar 1<I_DIN> na Previdência Social	X
 Lei do Aprendiz	2000	Todo jogador que tiver jogando pela 1a vez pode rerrolar um dado qualquer uma vez por rodada.	X
-Privatização do Banespa	2000	GOV-SP: +6$	
-Relógio dos 500 anos	2000	Partido com mais Mídia: -2 Lgd	
-Crise do Apagão	2001	PRS: +1 Str	
-Estatuto da Cidade	2001	M. DSV: +2 Lgd	
-Plataforma P-36	2001	M. DSV: -2 Frç e -2 Lgd	
-Violação do painel do Senado	2001	SEN: Demitido	
-Assassinato de Celso Daniel	2002	PT: -5 Leg. Exclui Celso Daniel do jogo.	
-Aumento do Risco Brasil	2002	M. FAZ: -2 Frç	
-Calote no Fundef	2002	M. EDC: +1 Str	
-Intervenção na Previ	2002	Subtraia 12$ do Fundo de Pensão, PRES e Daniel Dantas: +3 pts no Fundo de Pensão	
-Acidente de Alcântara	2003	M. DEF: -3 Frç e -2 Lgd	
-Novo Código Civil	2003	M. JST: +2 Frç e +2 Lgd	
-Programa Bolsa Familia	2003	Partido Mais Fraco: +2$ ao início da fase DIV	X
-Reforma da Previdência	2003	PRS: +3 Leg	
-Chacina de Unaí	2004	M. TRB: -3 Frç	
-Criação do ProUni	2004	M. EDC: +2 Frç e +2 Lgd	
-Lei de Inovação Tecnológica	2004	M. DSV: +2 Frç	
-Revolta da Catraca	2004	PIE : +2 Frç	
-Assalto ao Banco Central	2005	Partio Mais Fraco: +4$	
-Criação do PSOL	2005	Todos os políticos que podem ser transferidos do PT pro PIE são tranferidos automaticamente.	
-Estatuto do Desarmamento	2005	M. DEF: +2 Frç	
-Projeto Nova Luz	2005	GOV-SP: -2 Leg	
-Lei Maria da Penha	2006	Político Mulher: +1 Frç sempre que sofrer um APS bem sucedido.	X
-Modelo Digital Japonês	2006	Partido com mais Mídia: +3 Frç	
-PL 122	2006	PIE: +2 Frç	
-Plano Nacional do Livro e Leitura	2006	M. EDC: +1 Frç e +1 Lgd	
-Crise do Setor Aéreo	2007	PRS: +1 Str	
-Fim de dívidas com o FMI	2007	PRS e M. FAZ: +3 Lgd	
-Plano de Desenv. da Educação	2007	M. EDC +3 Frç	
-Programa de Aceleração do Crescimento	2007	Partidos: +1$ pra cada Ministro que tiverem.	
-Lei Antifumo	2008	M. SAU: +2 Lgd	
-Plano Amazônia Sustentável	2008	GOV-N: +2 Lgd	
-Privatização de Rodovias Federais	2008	M. DSV: +4$	
-Recurso Especial Repetitivo	2008	M. JST: +2 Lgd	
-#ForaSarney	2009	PMDB: -3 Frç	
-Fraude no Enem	2009	M. EDC: +2 Str	
-Apoio ao Programa Nuclear Iraniano	2009	M. EXT: +3 Frç	
-Pacto Republicano	2009	PRES, SEN e DEP: +3 Frç e +3 Lgd	
-Estatuto da Igualdade Racial	2010	PIE: +2 Frç	
-Ficha Limpa	2010	Políticos com i não podem concorrer a cargo EXE	X
-PAC - II	2010	Partidos: +1$ pra cada Ministro que tiverem.	
-Rebelião de Pedrinhas	2010	Partido Mais Fraco: escolhe um partido, este perde -3 Frç	
-Comissão da Verdade	2011	PED e DEM: -5 Leg	
-Cortes no Orçamento	2011	Orçamento Ministerial: -1$ até o fim deste mandato	
-Criação do PSD	2011	Todos os políticos que podem ser transferidos do DEM pra qualquer partido são tranferidos automaticamente.	
-Plano Brasil Maior	2011	M. DSV: +2 Frç	
-Brasil Sem Miséria	2012	Partido Mais Fraco: +4$	
-Lei de Acesso a Informação	2012	A informação da quantidade de dinheiro de cada partido torna-se pública.	X
-Novo Código Florestal	2012	GOV-N e GOV-CO: +2 Frç e +2$	
+Privatização do Banespa	2000	<C_GOV>-<R_SP>: +6<I_DIN>	
+Relógio dos 500 anos	2000	Partido com mais <I_CDM>: -2 <I_LGD>	
+Crise do Apagão	2001	<C_PRS>: +1 <T_STR>	
+Estatuto da Cidade	2001	<M_DSV>: +2 <I_LGD>	
+Plataforma P-36	2001	<M_DSV>: -2 <I_FRC> e -2 <I_LGD>	
+Violação do painel do Senado	2001	<C_SEN>: Demitido	
+Assassinato de Celso Daniel	2002	<PT>: -5 <I_LGD>. Exclui Celso Daniel do jogo.	
+Aumento do Risco Brasil	2002	<M_FAZ>: -2 <I_FRC>	
+Calote no Fundef	2002	<M_EDC>: +1 <T_STR>	
+Intervenção na Previ	2002	Subtraia 12<I_DIN> da Previdência Social, <C_PRS> e Daniel Dantas: +3 <I_FDP>	
+Acidente de Alcântara	2003	<M_DEF>: -3 <I_FRC> e -2 <I_LGD>	
+Novo Código Civil	2003	<M_JST>: +2 <I_FRC> e +2 <I_LGD>	
+Programa Bolsa Familia	2003	Partido Mais Fraco: +2<I_DIN> ao início da <F_DIV>	X
+Reforma da Previdência	2003	<C_PRS>: +3 <I_LGD>	
+Chacina de Unaí	2004	<M_TRB>: -3 <I_FRC>	
+Criação do ProUni	2004	<M_EDC>: +2 <I_FRC> e +2 <I_LGD>	
+Lei de Inovação Tecnológica	2004	<M_DSV>: +2 <I_FRC>	
+Revolta da Catraca	2004	<PPE> : +2 <I_FRC>	
+Assalto ao Banco Central	2005	Partio Mais Fraco: +4<I_DIN>	
+Criação do PSOL	2005	Todos os políticos que podem ser transferidos do <PT> pro <PPE> são tranferidos automaticamente.	
+Estatuto do Desarmamento	2005	<M_DEF>: +2 <I_FRC>	
+Projeto Nova Luz	2005	<C_GOV>-<R_SP>: -2 <I_LGD>	
+Lei Maria da Penha	2006	Político Mulher: +1 <I_FRC> sempre que sofrer um <A_APE> bem sucedido.	X
+Modelo Digital Japonês	2006	Partido com mais <I_CDM>: +3 <I_FRC>	
+PL 122	2006	<PPE>: +2 <I_FRC>	
+Plano Nacional do Livro e Leitura	2006	<M_EDC>: +1 <I_FRC> e +1 <I_LGD>	
+Crise do Setor Aéreo	2007	<C_PRS>: +1 <T_STR>	
+Fim de dívidas com o FMI	2007	<C_PRS> e <M_FAZ>: +3 <I_LGD>	
+Plano de Desenv. da Educação	2007	<M_EDC> +3 <I_FRC>	
+Prog. de Aceleração do Crescimento	2007	Partidos: +1<I_DIN> pra cada <C_MIN> que tiverem.	
+Lei Antifumo	2008	<M_SAU>: +2 <I_LGD>	
+Plano Amazônia Sustentável	2008	<C_GOV>-N: +2 <I_LGD>	
+Privatização de Rodovias Federais	2008	<M_DSV>: +4<I_DIN>	
+Recurso Especial Repetitivo	2008	<M_JST>: +2 <I_LGD>	
+#ForaSarney	2009	<PMDB>: -3 <I_FRC>	
+Fraude no Enem	2009	<M_EDC>: +2 <T_STR>	
+Apoio ao Programa Nuclear Iraniano	2009	<M_EXT>: +3 <I_FRC>	
+Pacto Republicano	2009	<C_PRS>, <C_SEN> e <C_DEP>: +3 <I_FRC> e +3 <I_LGD>	
+Estatuto da Igualdade Racial	2010	<PPE>: +2 <I_FRC>	
+Ficha Limpa	2010	Políticos com <T_INV> não podem concorrer a cargo <EXE>	X
+PAC - II	2010	Partidos: +1<I_DIN> pra cada <C_MIN> que tiverem.	
+Rebelião de Pedrinhas	2010	Partido Mais Fraco: escolhe um partido, este perde -3 <I_FRC>	
+Comissão da Verdade	2011	<PPD> e <DEM>: -5 <I_LGD>	
+Cortes no Orçamento	2011	Orçamento Ministerial: -1<I_DIN> até o fim deste mandato	
+Criação do PSD	2011	Todos os políticos que podem ser transferidos do <DEM> pra qualquer partido são tranferidos automaticamente.	
+Plano Brasil Maior	2011	<M_DSV>: +2 <I_FRC>	
+Brasil Sem Miséria	2012	Partido Mais Fraco: +4<I_DIN>	
+Lei de Acesso a Informação	2012	A informação da quantidade de <I_DIN> de cada partido torna-se pública.	X
+Novo Código Florestal	2012	<C_GOV>-<R_N> e <C_GOV>-CO: +2 <I_FRC> e +2<I_DIN>	
 Rio +20	2012	Nada Acontece	
-Jornada Mundial da Juventude	2013	PED, PMDB e DEM: +2 Frç	
-Levante de Junho	2013	Partidos Mais Fortes: -10/8/6/4/2 Frç respectivamente	
-Programa Mais Médicos	2013	M. SAU: +2 Frç	
-Rede Sustentabilidade	2013	Marina Silva: +4$ e +4 Frç	
-Banco dos Brics	2014	PRS e M. EXT: +2 Frç e +2 Lgd	
-Copa das Copas	2014	Marcelo Odebrecht: +5$ /César Mata Pires: +5$	
-Morte de Eduardo Campos	2014	+5 votos para o PIE na próxima eleição. Exclui Eduardo Campos do jogo.	
-Templo de Salomão	2014	Edir Macedo: +3 Frç e +3 Lgd	
+Jornada Mundial da Juventude	2013	<PPD>, <PMDB> e <DEM>: +2 <I_FRC>	
+Levante de Junho	2013	Partidos Mais Fortes: -10/8/6/4/2 <I_FRC> respectivamente	
+Programa Mais Médicos	2013	<M_SAU>: +2 <I_FRC>	
+Rede Sustentabilidade	2013	Marina Silva: +4<I_DIN> e +4 <I_FRC>	
+Banco dos Brics	2014	<C_PRS> e <M_EXT>: +2 <I_FRC> e +2 <I_LGD>	
+Copa das Copas	2014	Marcelo Odebrecht: +5<I_DIN> / César Mata Pires: +5<I_DIN>	
+Morte de Eduardo Campos	2014	5 votos para o <PPE> na próxima eleição. Exclui <i>Eduardo Campos</i> do jogo.	
+Templo de Salomão	2014	Edir Macedo: +3 <I_FRC> e +3 <I_LGD>	

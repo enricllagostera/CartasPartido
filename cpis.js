@@ -26,12 +26,12 @@ var tabela;
   bloco.classed("bloco", true);
   
   bloco.append("p").html(function(d) { 
-      var res = "<strong>Indiciado 1:</strong> " + d.indiciado1;
+      var res = "<strong>Indiciado 1:</strong> " + legenda.converter(d.indiciado1);
       if(d.indiciado2 == "")
           return res;
-      res += "<br/><strong>Indiciado 2:</strong> " + d.indiciado2;
+      res += "<br/><strong>Indiciado 2:</strong> " + legenda.converter(d.indiciado2);
       if(d.indiciado3 == "")
         return res;
-      return res + "<br/><strong>Indiciado 3:</strong> " + d.indiciado3;
+      return res + "<br/><strong>Indiciado 3:</strong> " + legenda.converter(d.indiciado3);
   });
 }); // fim criar cartas

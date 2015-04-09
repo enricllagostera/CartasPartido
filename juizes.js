@@ -40,9 +40,9 @@ d3.tsv("JUIZES.tsv", function (a) {
     .html(function(d) {
     if(d.influencia != "-") {
       if(d.espacos == 0) {
-        return "Influência permanente do " + d.influencia + ".";
+        return "Influência permanente do " + legenda.converter(d.influencia) + ".";
       }
-      return "Influência inicial do " + d.influencia + ".";
+      return "Influência inicial do " + legenda.converter(d.influencia) + ".";
     }
     else {
       if(d.espacos == 0) {

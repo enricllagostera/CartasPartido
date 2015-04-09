@@ -32,6 +32,6 @@ d3.tsv("EVENTOS.tsv", function (a) {
     if(d.perm != "") {
       res += "<strong>Permanente</strong><br/><br/>";
     }
-    return res + d.efeito;
+    return res + legenda.converter(d.efeito);
   });
 }); // fim criar cartas_eventos
