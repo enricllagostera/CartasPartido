@@ -55,7 +55,7 @@ d3.tsv("POLITICOS.tsv", function (a) {
     .classed("colEsquerda", true);
   // poder
   bloco.append("p")
-    .html(function(d) { return d.poder})
+    .html(function(d) { return legenda.converter(d.poder)})
     .classed("poder", true);
   // voto
   var votos = cartas.append("table").classed("votos", true);
