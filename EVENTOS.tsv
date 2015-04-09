@@ -34,7 +34,7 @@ Privatização da Vale do Rio Doce	1997	Benjamin Steinbruch +4<I_DIN>
 Dossie Cayman	1998	Pode-se fazer até 3 dossiês na próxima <F_CNV>	
 Implosão do Palace II	1998	Sérgio Naya: Cassado	
 Privatização da Telebras e Embratel	1998	Daniel Dantas: +4<I_DIN> / Tasso Jereissati: +8<I_DIN>	
-Reeleição	1998	Permite a reeleição de cargos do <EXE>	X
+Reeleição	1998	Permite a reeleição de cargos do <C_EXE>	X
 Adoção do Câmbio Flutuante	1999	<M_FAZ>: +2 <I_FRC> e +2 <I_LGD>	
 Coop. Internacional - Base de Alcântara	1999	<M_DEF>: +3<I_DIN>	
 Desvalorização do Real	1999	<M_DSV>: +3<I_DIN>	
@@ -80,7 +80,7 @@ Fraude no Enem	2009	<M_EDC>: +2 <T_STR>
 Apoio ao Programa Nuclear Iraniano	2009	<M_EXT>: +3 <I_FRC>	
 Pacto Republicano	2009	<C_PRS>, <C_SEN> e <C_DEP>: +3 <I_FRC> e +3 <I_LGD>	
 Estatuto da Igualdade Racial	2010	<PPE>: +2 <I_FRC>	
-Ficha Limpa	2010	Políticos com <T_INV> não podem concorrer a cargo <EXE>	X
+Ficha Limpa	2010	Políticos com <T_INV> não podem concorrer a cargo <C_EXE>	X
 PAC - II	2010	Partidos: +1<I_DIN> pra cada <C_MIN> que tiverem.	
 Rebelião de Pedrinhas	2010	Partido Mais Fraco: escolhe um partido, este perde -3 <I_FRC>	
 Comissão da Verdade	2011	<PPD> e <DEM>: -5 <I_LGD>	
