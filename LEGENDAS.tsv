@@ -1,0 +1,93 @@
+id	nome_longo	resumido
+<A_APA>	Ataque partidário	<b style="color:red;">APT</b>
+<A_APE>	Ataque pessoal	<b style="color:red;">APS</b>
+<A_CRR>	Corrupção	<b style="color:#ffe200">CRR</b>
+<A_PAS>	Passiva	
+<C_DEP>	Deputado	<b>Deputado</b>
+<C_EXE>	Executivo	<b>Executivo</b>
+<C_GOV>	Governador	<b>Governador</b>
+<C_LEG>	Legislativo	<b>Legislativo</b>
+<C_MIN>	Ministério	<b>Ministro</b>
+<C_PRS>	Presidente	<b>Presidente</b>
+<C_QQR>	Qualquer cargo	<b>Qualquer cargo</b>
+<C_SEN>	Senador	<b>Senador</b>
+<C_VPR>	Vice-presidente	<b>Vice-presidente</b>
+<CPI>	CPI	<b>CPI</b>
+<DEM>	DEM	<i style="color: #1323e6; background-color:#23ed71; font-weight:bold;">DEM</i>
+<F_CNV>	Convenção partidária	
+<F_DIV>	Dividendos	
+<F_EHT>	Evento histórico	
+<F_ELE>	Eleições	
+<F_EXE>	Executivo	
+<F_INF>	Influência	
+<F_JUD>	Judiciário	
+<F_MIN>	Ministério presidencial	
+<F_ROR>	Reorganização de cargos	
+<I_CDM>	Concessões de mídia	<i class="fa fa-bullhorn" style="color: #11b5bc"></i>
+<I_DIN>	Dinheiro	<i style="color: #2ca01c; font-weight:bold;">$</i>
+<I_FDP>	Fundo de pensão	<i class="fa fa-database" style="color: #8eb550"></i>
+<I_FRC>	Força	<i class="fa fa-legal" style="color: #cc0000"></i>
+<I_FJN>	Jornal	<i class="fa fa-newspaper-o" style="color: #11b5bc"></i>
+<I_LGD>	Legado	<i class="fa fa-trophy" style="color: #b4be6d"></i>
+<I_FTV>	Televisão	<i class="fa fa-laptop" style="color: #11b5bc"></i>
+<M_CCV>	Ministério da Casa Civil	<i>Min. da Casa Civil</i>
+<M_COM>	Ministério das Comunicações 	<i>Min. das Comunicações</i>
+<M_DEF>	Ministério da Defesa	<i>Min. da Defesa</i>
+<M_DSV>	Ministério do Desenvolvimento	<i>Min. do Desenvolvimento</i>
+<M_EDC>	Ministério da  Educação	<i>Min. da Educação</i>
+<M_EXT>	Ministério das Relações Exteriores	<i>Min. das  Relações Exteriores</i>
+<M_FAZ>	Ministério da Fazenda	<i>Min. da Fazenda</i>
+<M_JST>	Ministério da Justiça	<i>Min. da Justiça</i>
+<M_SAU>	Ministério da Saúde	<i>Min. da Saúde</i>
+<M_TRB>	Ministério do Trabalho	<i>Min. do Trabalho</i>
+<OPF>	Operação da PF	<b> Operação da PF<b>
+<P_AGR>	Agronegócio	<i class="fa fa-pagelines" style="color: #66cc00"></i>
+<P_ART>	Artes	<i class="fa fa-paint-brush" style="color: #ff66ff"></i>
+<P_COM>	Comunicação	<i class="fa fa-microphone" style="color: #009999"></i>
+<P_DIR>	Direito	<i class="fa fa-university" style="color: #cc0000"></i>
+<P_EDU>	Educação	<i class="fa fa-pencil" style="color: #663366"></i>
+<P_ESP>	Esporte	<i class="fa fa-futbol-o" style="color: #33c6f4"></i>
+<P_FIN>	Finanças	<i class="fa fa-credit-card" style="color: #009900"></i>
+<P_IND>	Indústria	<i class="fa fa-building-o" style="color: #663300"></i>
+<P_MAG>	Magnatas	<i class="fa fa-glass" style="color: #ffcc00"></i>
+<P_PUB>	Publicidade	<i class="fa fa-smile-o" style="color: #ff9900"></i>
+<P_REL>	Religião	<i class="fa fa-bell" style="color: #000"></i>
+<P_SUB>	Subversão	<i class="fa fa-users" style="color: #ff0000"></i>
+<P_TEC>	Tecnocratas	<i class="fa fa-thumb-tack" style="color: #b2b2b2"></i>
+<P_VAR>	Varejo	<i class="fa fa-shopping-cart" style="color: #cc99ff"></i>
+<PMDB>	PMDB	<i style="color: #000; background-color:#e2d64a; font-weight:bold;">PMDB</i>
+<PPD>	PPD	<i style="color: #fff; background-color:#000; font-weight:bold;">PPD</i>
+<PPE>	PPE	<i style="color: #fff; background-color:#f00; font-weight:bold;">PPE</i>
+<PSDB>	PSDB	<i style="color: #ffeb00; background-color:#4039e5; font-weight:bold;">PSDB</i>
+<PT>	PT	<i style="color: #fc0044; background-color:#eee; font-weight:bold;">PT</i>
+<R_BA>	Bahia	<b>BA</b>
+<R_CO>	Região Centro-oeste	<b>CO</b>
+<R_MG>	Minas Gerais	<b>MG</b>
+<R_N>	Região Norte	<b>N</b>
+<R_NRL>	Região Nordeste-Leste	<b>NRL</b>
+<R_NRN>	Região Nordeste-Norte	<b>NRN</b>
+<R_PE>	Pernambuco	<b>PE</b>
+<R_PR>	Paraná	<b>PR</b>
+<R_RJ>	Rio de Janeiro	<b>RJ</b>
+<R_RS>	Rio Grande do Sul	<b>RS</b>
+<R_SC>	Santa Catarina	<b>SC</b>
+<R_SP>	São Paulo	<b>SP</b>
+<T_INV>	Investigação	<i class="fa fa-user-secret" style="color: #b404c3"></i>
+<T_STR>	Stress	<i class="fa fa-comments" style="color: #ff5669"></i>
+<V_AGR>	Agronegócio	<b>Agronegócio</b>
+<V_BBM>	Bandido Bom é Bandido Morto	<b>Bandido Bom é Bandido Morto</b>
+<V_CDB>	Cidadão de Bem	<b>Cidadão de Bem</b>
+<V_CPP>	Carisma Popular	<b>Carisma Popular</b>
+<V_CRL>	Coronelismo	<b>Coronelismo</b>
+<V_DFM>	Defesa de minorias	<b>Defesa de minorias</b>
+<V_DSV>	Desenvolvimentismo	<b>Desenvolvimentismo</b>
+<V_GSF>	Se Hay Governo Soy a Favor	<b>Se Hay Governo Soy a Favor</b>
+<V_ICB>	Imprensa Chapa Branca	<b>Imprensa Chapa Branca</b>
+<V_IDS>	Ideologia Socialista	<b>Ideologia Socialista</b>
+<V_ISO>	Isolacionismo	<b>Isolacionismo</b>
+<V_NEO>	Neoliberalismo	<b>Neoliberalismo</b>
+<V_PCL>	Política Café-com-Leite	<b>Política Café-com-Leite</b>
+<V_PDC>	Política de Coalizão	<b>Política de Coalizão</b>
+<V_SJP>	Sangue de Jesus tem Poder	<b>Sangue de Jesus tem Poder</b>
+<PERS>	Personalidade	
+<POL>	Político	
